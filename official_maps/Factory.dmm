@@ -1,0 +1,259 @@
+"aa" = (/turf,/area)
+"ab" = (/Tiles/Density,/area)
+"ac" = (/Tiles/Small/Bridge/B12,/area)
+"ad" = (/Tiles/Barricades/Crate,/Tiles/Small/BridgeB/B6,/area)
+"ae" = (/Tiles/Small/BridgeB/B6,/area)
+"af" = (/Tiles/Small/Bridge/B13,/area)
+"ag" = (/Tiles/Small/Bridge/B4,/area)
+"ah" = (/Tiles/Small/Bridge/B5,/area)
+"ai" = (/Tiles/Barricades/Crate,/Tiles/Small/Bridge/B5,/area)
+"aj" = (/Tiles/Small/Bridge/B6,/area)
+"ak" = (/items/weapons/grenade_launcher,/Tiles/Small/Bridge/B5,/area)
+"al" = (/Tiles/Small/Bridge/B5,/Tiles/Medium/Trash_Bag,/area)
+"am" = (/Effects/spawn_stuff/erise_zone,/Tiles/Small/Bridge/B5,/area)
+"an" = (/Tiles/Barricades/Crate,/Tiles/Small/Bridge/B4,/area)
+"ao" = (/Tiles/Trash/Bottle/B2,/Tiles/Small/BridgeB/B6,/area)
+"ap" = (/Tiles/Barricades/Crate,/Tiles/Small/Bridge/B6,/area)
+"aq" = (/Tiles/Trash/Paper/P2,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Bridge/B5,/area)
+"ar" = (/Tiles/Small/BridgeB/B4,/area)
+"as" = (/Tiles/Small/Bridge/Fall_Light,/Tiles/Density,/area)
+"at" = (/Tiles/Barricades/Crate,/Tiles/Small/BridgeB/B4,/area)
+"au" = (/Tiles/Small/Bridge/B10,/area)
+"av" = (/Tiles/Small/Bridge/B7,/Tiles/Small/Factory_Wall/F10,/Tiles/Small/Bridge/B7,/Tiles/Density,/area)
+"aw" = (/Tiles/Small/Factory_Floor/Stairs,/Tiles/Small/Bridge/B8,/area)
+"ax" = (/Tiles/Small/Bridge/B9,/Tiles/Small/Factory_Wall/F5,/Tiles/Small/Bridge/B9,/Tiles/Density,/area)
+"ay" = (/Tiles/Small/Factory_Wall/F10,/Tiles/Density,/area)
+"az" = (/Tiles/Small/Factory_Floor/Stairs,/area)
+"aA" = (/Tiles/Small/Factory_Wall/F5,/Tiles/Density,/area)
+"aB" = (/Tiles/Small/Factory_Wall/F19,/Tiles/Density,/area)
+"aC" = (/Tiles/Small/Factory_Wall/F20,/Tiles/Density,/area)
+"aD" = (/Tiles/Small/Factory_Wall/F20,/Tiles/Small/Factory_Wall/F10,/Tiles/Density,/area)
+"aE" = (/Tiles/Small/Factory_Wall/F20,/Tiles/Small/Factory_Wall/F5,/Tiles/Density,/area)
+"aF" = (/Tiles/Small/Factory_Wall/F10,/Tiles/Small/Factory_Wall/F20,/Tiles/Density,/area)
+"aG" = (/Tiles/Small/Factory_Wall/F21,/Tiles/Density,/area)
+"aH" = (/Tiles/Small/Factory_Wall/F23,/area)
+"aI" = (/Tiles/Small/Factory_Wall/F23,/Tiles/Small/Factory_Wall/F10,/Tiles/Density,/area)
+"aJ" = (/Tiles/Small/Factory_Wall/F23,/Tiles/Small/Factory_Wall/F5,/Tiles/Density,/area)
+"aK" = (/Tiles/Small/Factory_Wall/F17,/area)
+"aL" = (/Tiles/Small/Factory_Wall/F17,/Tiles/Small/Factory_Wall/F10,/Tiles/Density,/area)
+"aM" = (/Tiles/Small/Factory_Wall/F17,/Tiles/Small/Factory_Wall/F5,/Tiles/Density,/area)
+"aN" = (/Tiles/Small/Factory_Wall/F17,/Tiles/Theatre/Mold/M2,/area)
+"aO" = (/Tiles/Small/Factory_Wall/F17,/Tiles/Small/Building/Window1,/area)
+"aP" = (/Tiles/Small/Factory_Wall/F17,/Tiles/Medium/Posters/Biohazard1,/area)
+"aQ" = (/Tiles/Small/Factory_Wall/F17,/Tiles/Medium/Posters/Biohazard2,/area)
+"aR" = (/Tiles/Small/Factory_Wall/F14,/Tiles/Density,/area)
+"aS" = (/Tiles/Small/Factory_Wall/F14,/Tiles/Small/Factory_Wall/F10,/Tiles/Density,/area)
+"aT" = (/Tiles/Small/Factory_Wall/F14,/Tiles/Small/Factory_Wall/F5,/Tiles/Density,/area)
+"aU" = (/Tiles/Small/Factory_Floor,/Tiles/Density,/area)
+"aV" = (/Tiles/Small/Factory_Floor,/area)
+"aW" = (/Tiles/Small/Factory_Floor,/Tiles/Medium/Trash_Bag,/area)
+"aX" = (/obj/enviroment/hazard/barrel,/Tiles/Small/Factory_Floor,/area)
+"aY" = (/Tiles/Trash/Cardboard_Box/Big_Box,/Tiles/Small/Factory_Floor,/area)
+"aZ" = (/Tiles/Small/Factory_Floor,/Tiles/Bullet_Only,/area)
+"ba" = (/Tiles/Small/Factory_Floor,/Tiles/Large/Machine/Machine_B,/Tiles/Large/Machine/Machine_T,/Tiles/Density,/area)
+"bb" = (/Tiles/Small/Factory_Floor,/Tiles/Large/Monitor/Monitor_B,/Tiles/Large/Monitor/Monitor_T,/Tiles/Density,/area)
+"bc" = (/Tiles/Barricades/Crate,/Tiles/Small/Factory_Floor,/area)
+"bd" = (/Effects/spawn_stuff/enemy_spawn_zone,/Tiles/Small/Factory_Floor,/area)
+"be" = (/Tiles/Small/Factory_Floor,/Tiles/Acid_Shilo,/Tiles/Acid_Shilo/Top,/area)
+"bf" = (/Tiles/Small/Factory_Floor,/Tiles/Large/AC_Unit,/Tiles/Bullet_Only,/area)
+"bg" = (/Effects/spawn_stuff/player_spawn_zone,/Tiles/Small/Factory_Floor,/area)
+"bh" = (/Effects/spawn_stuff/erise_zone,/Tiles/Small/Factory_Floor,/area)
+"bi" = (/Tiles/Small/Factory_Floor,/Effects/spawn_stuff/erise_zone,/Tiles/Theatre/Mold,/area)
+"bj" = (/Tiles/Trash/Newspaper,/Tiles/Small/Factory_Floor,/area)
+"bk" = (/items/weapons/burst_rifle,/Tiles/Small/Factory_Floor,/area)
+"bl" = (/Tiles/Small/Factory_Wall/F17,/Tiles/Small/Factory_Wall/F27,/Tiles/Bullet_Only,/area)
+"bm" = (/Tiles/Small/Factory_Wall/F23,/Tiles/Bullet_Only,/area)
+"bn" = (/Tiles/Small/Factory_Wall/F17,/Tiles/Small/Factory_Wall/F29,/Tiles/Bullet_Only,/area)
+"bo" = (/Tiles/Small/Factory_Floor,/Tiles/Restore_Ammo,/area)
+"bp" = (/Tiles/Small/Factory_Floor,/Tiles/Small/Bridge,/area)
+"bq" = (/Tiles/Small/Factory_Floor,/Tiles/Small/Bridge/B2,/area)
+"br" = (/Tiles/Small/Factory_Floor,/Tiles/Small/Bridge/B3,/area)
+"bs" = (/Effects/spawn_stuff/erise_zone,/Tiles/Small/Factory_Floor/F4,/area)
+"bt" = (/Tiles/Small/Factory_Wall/F17,/Tiles/Small/Factory_Wall/F25,/Tiles/Bullet_Only,/area)
+"bu" = (/Tiles/Small/Factory_Wall/F17,/Tiles/Small/Factory_Wall/F26,/Tiles/Bullet_Only,/area)
+"bv" = (/Tiles/Small/Factory_Floor,/Tiles/Small/Factory_Wall/F30,/Tiles/Bullet_Only,/area)
+"bw" = (/Tiles/Small/Factory_Wall/F23,/Tiles/Small/Bridge/B4,/area)
+"bx" = (/Tiles/Small/Factory_Wall/F23,/Tiles/Small/Bridge/B5,/area)
+"by" = (/Tiles/Small/Factory_Wall/F23,/Tiles/Small/Bridge/B6,/area)
+"bz" = (/Tiles/Small/Factory_Wall/F14,/Tiles/Small/Factory_Wall/F25,/Tiles/Bullet_Only,/area)
+"bA" = (/Tiles/Small/Factory_Wall/F14,/Tiles/Large/Grate,/area)
+"bB" = (/Tiles/Small/Factory_Wall/F14,/area)
+"bC" = (/Tiles/Small/Factory_Wall/F14,/Tiles/Small/Factory_Wall/F26,/Tiles/Bullet_Only,/area)
+"bD" = (/Tiles/Small/Factory_Floor,/Tiles/Small/Factory_Wall/F26,/Tiles/Bullet_Only,/area)
+"bE" = (/Tiles/Small/Factory_Wall/F17,/Tiles/Bullet_Only,/area)
+"bF" = (/Tiles/Small/Factory_Wall/F17,/Tiles/Small/Bridge/B4,/area)
+"bG" = (/Tiles/Small/Factory_Wall/F17,/Tiles/Small/Bridge/B5,/area)
+"bH" = (/Tiles/Small/Factory_Wall/F17,/Tiles/Small/Bridge/B6,/area)
+"bI" = (/Tiles/Small/Factory_Wall/F11,/Tiles/Small/Acid/A5,/Tiles/Small/Factory_Wall/F25,/Tiles/Bullet_Only,/area)
+"bJ" = (/Tiles/Small/Factory_Wall/F11,/Tiles/Small/Acid/A5,/area)
+"bK" = (/Tiles/Small/Factory_Wall/F11,/Tiles/Small/Acid/A5,/Tiles/Small/Factory_Wall/F26,/Tiles/Bullet_Only,/area)
+"bL" = (/Tiles/Medium/AmmoCrate,/Tiles/Small/Factory_Floor,/area)
+"bM" = (/Tiles/Small/Factory_Wall/F14,/Tiles/Bullet_Only,/area)
+"bN" = (/Tiles/Small/Factory_Wall/F14,/Tiles/Small/Bridge/B4,/area)
+"bO" = (/Tiles/Small/Factory_Wall/F14,/Tiles/Small/Bridge/B5,/area)
+"bP" = (/Tiles/Small/Factory_Wall/F14,/Tiles/Small/Bridge/B6,/area)
+"bQ" = (/Tiles/Machines/Teleporter1,/Tiles/Small/Factory_Floor,/area)
+"bR" = (/Tiles/Small/Acid/A2,/Tiles/Small/Factory_Wall/F25,/Tiles/Bullet_Only,/area)
+"bS" = (/Tiles/Small/Acid/A2,/area)
+"bT" = (/Tiles/Small/Acid/A2,/Tiles/Small/Factory_Wall/F26,/Tiles/Bullet_Only,/area)
+"bU" = (/Tiles/Small/Factory_Wall/F11,/Tiles/Small/Acid/A5,/Tiles/Bullet_Only,/area)
+"bV" = (/Tiles/Small/Factory_Wall/F11,/Tiles/Small/Acid/A5,/Tiles/Small/Bridge/B4,/area)
+"bW" = (/Tiles/Small/Factory_Wall/F11,/Tiles/Small/Acid/A5,/Tiles/Small/Bridge/B5,/area)
+"bX" = (/Tiles/Small/Factory_Wall/F11,/Tiles/Small/Acid/A5,/Tiles/Small/Bridge/B6,/area)
+"bY" = (/Tiles/Small/Acid/A2,/Tiles/Bullet_Only,/area)
+"bZ" = (/Tiles/Small/Acid/A2,/Tiles/Small/Bridge/B4,/area)
+"ca" = (/Tiles/Small/Acid/A2,/Tiles/Small/Bridge/B5,/area)
+"cb" = (/Tiles/Small/Acid/A2,/Tiles/Small/Bridge/B6,/area)
+"cc" = (/Tiles/Trash/Bottle,/Tiles/Small/Factory_Floor,/area)
+"cd" = (/Tiles/Small/Factory_Floor,/Tiles/Small/Factory_Wall/F27,/Tiles/Bullet_Only,/area)
+"ce" = (/Tiles/Small/Factory_Floor,/Tiles/Small/Factory_Wall/F28,/Tiles/Bullet_Only,/area)
+"cf" = (/Tiles/Small/Factory_Floor,/Tiles/Small/Factory_Wall/F28,/Tiles/Small/Bridge/B4,/area)
+"cg" = (/Tiles/Small/Factory_Floor,/Tiles/Small/Factory_Wall/F28,/Tiles/Small/Bridge/B5,/area)
+"ch" = (/Tiles/Small/Factory_Floor,/Tiles/Small/Factory_Wall/F28,/Tiles/Small/Bridge/B6,/area)
+"ci" = (/items/weapons/shotgun,/Tiles/Small/Factory_Floor,/area)
+"cj" = (/Tiles/Small/Factory_Floor,/Tiles/Small/Factory_Wall/F25,/Tiles/Bullet_Only,/area)
+"ck" = (/Tiles/Small/Factory_Floor,/Tiles/Small/Bridge/B7,/area)
+"cl" = (/Tiles/Small/Factory_Floor,/Tiles/Small/Bridge/B8,/area)
+"cm" = (/Tiles/Small/Factory_Floor,/Tiles/Small/Bridge/B9,/area)
+"cn" = (/Tiles/Small/Factory_Floor,/Tiles/Theatre/Mold/M2,/area)
+"co" = (/Tiles/Barricades/Crate2,/Tiles/Small/Factory_Floor,/area)
+"cp" = (/Tiles/Trash/Paper,/Tiles/Small/Factory_Floor,/area)
+"cq" = (/Tiles/Small/Acid/A2,/Tiles/Small/Factory_Wall/F32,/Tiles/Bullet_Only,/area)
+"cr" = (/Tiles/Small/Acid/A2,/Tiles/Small/Factory_Wall/F33,/Tiles/Bullet_Only,/area)
+"cs" = (/Tiles/Small/Factory_Wall/F24,/Tiles/Bullet_Only,/area)
+"ct" = (/Tiles/Small/Factory_Wall/F22,/Tiles/Bullet_Only,/area)
+"cu" = (/Tiles/Small/Acid/A2,/Tiles/Small/Factory_Wall/F34,/area)
+"cv" = (/Tiles/Small/Acid/A2,/Tiles/Small/Factory_Wall/F35,/area)
+"cw" = (/Tiles/Small/Factory_Wall/F14,/Tiles/Medium/Posters/Ripped,/area)
+"cx" = (/Tiles/Small/Acid/A2,/Tiles/Small/Factory_Wall/F36,/area)
+"cy" = (/Tiles/Small/Acid/A2,/Tiles/Small/Factory_Wall/F37,/area)
+"cz" = (/Tiles/Small/Factory_Wall/F14,/Tiles/Medium/Posters/Biohazard1,/area)
+"cA" = (/Tiles/Small/Acid/A2,/Tiles/Small/Factory_Wall/F38,/Tiles/Small/Acid/A7,/area)
+"cB" = (/Tiles/Small/Acid/A2,/Tiles/Small/Factory_Wall/F39,/Tiles/Small/Acid/A8,/area)
+"cC" = (/Tiles/Small/Acid/A2,/Tiles/Trash/Bottle,/Tiles/Small/Bridge/B5,/area)
+"cD" = (/Tiles/Small/Factory_Floor,/Tiles/Small/Factory_Wall/F29,/Tiles/Bullet_Only,/area)
+"cE" = (/Tiles/Trash/Cardboard_Box,/Tiles/Small/Factory_Floor,/area)
+"cF" = (/Tiles/Small/Factory_Floor,/Tiles/Large/AC_Unit,/area)
+"cG" = (/Tiles/Trash/Bottle/B2,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Factory_Floor,/area)
+"cH" = (/Tiles/Trash/Bottle,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Factory_Floor,/area)
+"cI" = (/Tiles/Trash/Paper/P2,/Tiles/Small/Factory_Floor,/area)
+"cJ" = (/Tiles/Small/Factory_Floor/F4,/area)
+"cK" = (/items/weapons/rifle,/Tiles/Small/Factory_Floor,/area)
+"cL" = (/Tiles/Small/Factory_Wall/F14,/Tiles/Medium/Posters/Burned,/area)
+"cM" = (/Tiles/Small/Factory_Wall/F14,/Tiles/Theatre/Mold/M2,/area)
+"cN" = (/Tiles/Machines/Teleporter2,/Tiles/Small/Factory_Floor,/area)
+"cO" = (/items/weapons/auto_shotgun,/Tiles/Small/Factory_Floor,/area)
+"cP" = (/Tiles/Small/Factory_Floor,/Tiles/Small/Factory_Wall/F40,/Tiles/Bullet_Only,/area)
+"cQ" = (/Tiles/Small/Factory_Wall,/Tiles/Density,/area)
+"cR" = (/Tiles/Small/Factory_Wall/F2,/Tiles/Density,/area)
+"cS" = (/Tiles/Small/Factory_Wall/F2,/Tiles/Small/Factory_Wall/F10,/Tiles/Density,/area)
+"cT" = (/Tiles/Small/Factory_Wall/F2,/Tiles/Small/Factory_Wall/F5,/Tiles/Density,/area)
+"cU" = (/Tiles/Small/Factory_Wall/F3,/Tiles/Density,/area)
+"cV" = (/Tiles/Small/Factory_Wall/F23,/Tiles/Density,/area)
+"cW" = (/Tiles/Small/Factory_Wall/F17,/Tiles/Density,/area)
+"cX" = (/Tiles/Small/Factory_Wall/F17,/Tiles/Small/Building/Window1,/Tiles/Small/Building/Window1/W2,/area)
+"cY" = (/Effects/spawn_stuff/erise_zone,/items/other_items/revive,/Tiles/Small/Factory_Floor,/area)
+"cZ" = (/Tiles/Small/Factory_Floor,/Tiles/Theatre/Mold,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaabababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababababababababababababababababababababababababababababababababababababababababaaaaaaaa
+aaaaaaaaaaaaaaaaaaabacadaeaeaeaeaeaeaeaeafabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeadaeadaeaeaeaeaeaeaeaeaeafabaaaaaaaa
+aaaaaaaaaaaaaaaaaaabagahahaiahahahahahahajababababababababababababababababababababababababababababababagakahalahahahahahamamamamamamamamamamamamamamamamamamamamamamamamahaiahahahahahahahaiajabaaaaaaaa
+aaaaaaaaaaaaaaaaaaabanahahahahahahahahahahaeaeadaeadadaeaeaeaeaeadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaoaeahahahahahahahahahamamamamamamamamamamamamamamamamamamamamamamamamahahahahahahahahahahapabaaaaaaaa
+aaaaaaaaaaaaaaaaaaabagahamamaqamamamamamamamamamamamamamamamamamahaiahahamamamamamamamamamamamamamamamamamamamamahahahahahahahararararararararararararararararararararararararararararahahahajabaaaaaaaa
+aaaaaaaaaaaaaaaaaaabagahamamamamamamamamamamamamamamamamamamamamahahahahamamamamamamamamamamamamamamamamamamamamahahaiahahaiajasasasasasasasasasasasasasasasasasasasasasasasasasasasasagahahajabaaaaaaaa
+aaaaaaaaaaaaaaaaaaabagahahaharararararararararararararararararararararararararararararararararararararararararararatararararauabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabagahahajabaaaaaaaa
+aaaaaaaaaaaaaaaaaaabagahahajasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabavawawaxabaaaaaaaa
+aaaaaaaaaaaaaaaaaaabavawawaxabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayazazaAaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaayazazaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayazazaAaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaayazazaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayazazaAaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaayazazaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayazazaAaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaayazazaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayazazaAaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaayazazaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayazazaAaaaaaaaaaa
+aBaCaCaCaCaCaCaCaCaCaDazazaEaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaFazazaEaCaCaCaCaG
+ayaHaHaHaHaHaHaHaHaHaIazazaJaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaHaIazazaJaHaHaHaHaA
+ayaKaKaKaKaKaKaKaKaKaLazazaMaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaNaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaLazazaMaKaKaKaKaA
+ayaKaKaKaKaKaKaKaKaKaLazazaMaKaKaKaKaKaOaKaKaKaKaKaKaKaKaKaKaPaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaOaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaQaKaKaLazazaMaKaKaKaKaA
+ayaRaRaRaRaRaRaRaRaRaSazazaTaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaSazazaTaRaRaRaRaA
+ayaUaUaUaUaVaVaVaVaVaVaVaVaWaWaVaVaXaVaVaXaVaVaVaVaVaVaYaVaVaVaVaVaVaVaVaVaVaVaVaVaZaZaVaVaVaUaUaUaUaVaVaVbaaUaVaXaXaVaVaVaVbbaUaUaUaVaVaVbcaVaVaVaVbcaVaVbdaVaVaVaVaVaVaVaXaXaVaVaVaWaVaVaVaVaVaVaVaVaA
+aybeaUaUaVaVaUaUaUaUaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVbfaZaVaVaVbeaUaUaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVbcaVaVaVaVaVaVaVaVaVaVaVaVaVaVaXaVaVaVaVaVaVaVaVaVaVbdaA
+ayaVaVaVaVaVbeaUaUaVaVbgaVbhbhbhbhaVaVaVbdaVaVaVbhbhbhbhbhbhbhbhbhbhbhaVbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVaVbgaVaVaVaVaVaVaVaVaVaVaVbcaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVbdaA
+ayaVaVaVaVaVaVaVaVaVaVaVaVbhbhbhbhaVaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVbdaA
+ayaVaXaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVbhbhbhbibhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVbdaA
+ayaXaVaVbjaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVbkaVbhbhbhbhbhbhbhbhbhaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaA
+aybdaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVblbmbmbmbmbnaVaVaVaVaVaVaVaVaVaVaVaVaVaVboboboboboboaVaVaVbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVbpbqbqbqbqbqbraXaVaA
+aybdaVaVbhbhbhbhbhbhbhbsbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVbtaKaKaKaKbuaVaVaVaVbhbhbhbhbhbhbhbhbhaVboboboboboboaVaVaVbhbhbhbhbhbhbhbhbhaVaVaVaVaVbvbmbmbmbmbmbmbmbmbmbmbwbxbxbxbxbxbybmbmaA
+aybdaVaVbhbhbhbhbhbhbhbhbhaVaVaVaVbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVbzbAbBbBbBbCaVaVaVaVbhbhbhbhbhbhbhbhbhaVboboaVaVboboaVaVaVbhbhbhbhbhbhbhbhbhaVaVaVaVaVbDaKaKaKaKaKaKaKaKaKbEbFbGbGbGbGbGbHbEaKaA
+ayaVaVaVbhbhbhbhbhbhbhbhbhaVaVaVaVbhbhbhbhbhbhbhaVaVaVbgaVaVaVaVaVaVbcaVbIbJbJbJbJbKaVbcaVaVbhbhbhbhbhbhbhbhbhaVbobobLaVboboaVaVaVbhbhbhbhbhbhbhbhbhaVaVaVaVaVbDbBbBbBbBbAbBbBbBbBbMbNbObObObObObPbMbBaA
+ayaVaVaVbhbhbhbhbhbhbhbhbhaVbQaVaVbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVbcbRbSbSbSbSbTaVaVaVaVbhbhbhbhbhbhbhbhbhaVboboboboboboaVaVaVbhbhbhbhbhbhbhbhbhaVaVaVaVaVbDbJbJbJbJbJbJbJbJbJbUbVbWbWbWbWbWbXbUbJaA
+ayaVaVaVaVaVaVbhbibhbhbhbhaVaVaVaVbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVbdaVaVaVbRbSbSbSbSbTaVaVaVaVbhbhbhbhbhbhbhbhbhaVboboboboboboaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVbDbSbSbSbSbSbSbSbSbSbYbZcacacacacacbbYbSaA
+ayaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVccaVaVaVaVaVaVaVaVaVaVbRbSbSbSbSbTaVbcaVaVbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVbDbSbSbSbSbSbSbSbSbSbYbZcacacacacacbbYbSaA
+ayaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVbRbSbSbSbSbTbcaVaVaVbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVbgaVaVaVaVaVaVaVaVaVaVaVaUaUaUaUbDbSbSbSbSbSbSbSbSbSbYbZcacacacacacbbYbSaA
+ayaUaUaUaUaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVbcbRbSbSbSbSbTaVaVaVaVaVaVaVaVaVaVaVbgaVaVbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVaVbeaUaUaVbDbSbSbSbSbSbSbSbSbSbYbZcacacacacacbbYbSaA
+aybeaUaUaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVbRbSbSbSbSbTaVaVaVaVaVaVaVaVaVaVaVaVaVaVbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVbDbSbSbSbScdcecececececfcgcgcgcgcgchceceaA
+ayaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVbRbSbSbSbSbTaVaVaVaVaVaVaVaVaVaVaVaVciaVbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVbgaVaVaVaXbDbSbSbSbScjbfaZaVaVaVckclclclclclcmaXaVaA
+ayaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVbRbSbSbSbSbTaVaVcnaVaVaVaVaVaVaVaVaVaVaVbhbhbhbhbhbhaVaVaVaUaUaUaUaVaVaVaVaVaVaVaVaXaVbDbSbSbSbScjaVaVaVaVbhbhbhbhbhbhbhbhbhaVaA
+ayaVaVaXaVaVaVbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaXaVaVaVaVaVaVaVaVaVaVbRbSbSbSbSbTaVaVaVaVaVaVaVaVaVaVaXaVaVaVbhbhbhbhbsbhaVaVaVbeaUaUaVaVaVaVaVaVaVaVaVaVaVbDbSbSbSbScjaVaVaVaVbhbhbhbhbhbhbhbhbhaVaA
+ayaVaVaXaXaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaXaVaXaVaUaUaUaUaVaVaXaVbRbSbSbSbSbTaVaWaVcoaVaVaVaVaVaXaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaUaUaUaUaVaVaVaVaVaVaVbDbSbSbSbScjcpaXaVaVbhbhbhbhbhbhbhbhbhaVaA
+ayaVaXaVaVaVaVaVaWaVaVbpbqbqbqbqbqbqbraVaVaVaXaXaVaVaVaVbeaUaUaVaVaXaVaVbRbSbSbSbSbTaWaVaVaVaVaVaVaVaVaVaXaVaVaXaVaVaVaVaVaVaXaXaVaVaVaVbeaUaUaVaVaVaVaWaVaVaVbDbSbSbSbScjaXaVaXaVaVbpbqbqbqbqbqbraVaVaA
+aybmbmbmbmbmbmbmbmbmbmbwbxbxbxbxbxbxbybmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmcqbSbSbSbScrbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmcsbSbSbSbSctbmbmbmbmbmbwbxbxbxbxbxbybmbmaA
+ayaKaKaKaKaKaKaKaKaKbEbFbGbGbGbGbGbGbHbEaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKcubSbSbSbScvaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKbSbSbSbSaKaKaKaKaKbEbFbGbGbGbGbGbHbEaKaA
+aybBbAbBbBbBbBbBbBbBbMbNbObObObObObObPbMbBbBbBcwbBbBbBbBbBbBbBbBbBbBbBbBcxbSbSbSbScybBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbSbSbSbSbBbBczbBbBbMbNbObObObObObPbMbBaA
+aybJbJbJbJbJbJbJbJbJbUbVbWbWbWbWbWbWbXbUbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJcAbSbSbSbScBbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbSbSbSbSbJbJbJbJbJbUbVbWbWbWbWbWbXbUbJaA
+aybSbSbSbSbSbSbSbSbSbYbZcacacacacacacbbYbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbYbZcacacacacacbbYbSaA
+aybSbSbSbSbSbSbSbSbSbYbZcacacacacacacbbYbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbYbZcacCcacacacbbYbSaA
+aybSbSbSbSbSbSbSbSbSbYbZcacacacacacacbbYbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbYbZcacacacacacbbYbSaA
+aybSbSbSbSbSbSbSbSbSbYbZcacacacacacacbbYbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbYbZcacacacacacbbYbSaA
+aybSbSbSbSbSbSbSbSbSbYbZcacacacacacacbbYbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbYbZcacacacacacbbYbSaA
+aybSbSbSbSbSbSbSbSbSbYbZcacacacacacacbbYbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbYbZcacacacacacbbYbSaA
+aybSbSbSbSbSbSbSbSbSbYbZcacacacacacacbbYbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbYbZcacacacacacbbYbSaA
+aybSbSbSbSbSbSbSbSbSbYbZcacacacacacacbbYbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbYbZcacacacacacbbYbSaA
+aybSbSbSbSbSbSbSbSbSbYbZcacacacacacacbbYbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbYbZcacacacacacbbYbSaA
+aybSbSbSbSbSbSbSbSbSbYbZcacacacacacacbbYbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbYbZcacacacacacbbYbSaA
+aycececececececececececfcgcgcgcgcgcgchcececececececececececececececececececececececececececececececececececececececececececececDbSbSbSbScdcecececececececececececececececececececececfcgcgcgcgcgchceceaA
+ayaVaVaVaVaVaVaVaVaXaVckclclclclclclcmaWaVaVaVaVaVaVaVaVbaaUaVaVaVaVcEaVaVaVaUaUaUaUaVaVaVaVaVaVaVaXaXaVaVaXaVaUaUaUaUaUaUaUaUbDbSbSbSbScjaVaUaUaUaUaVaVaVaVaVaVaVaVaVaVaVaXaVaXaVaVckclclclclclcmaVaVaA
+aycFaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVbeaUaUaVaVaVaVaVaVaVaXaVaVaVaVaVaVbeaUaUaVbeaUaUaVbDbSbSbSbScjaVbeaUaUaVaVaUaUaUaUaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaA
+ayaVaVaVaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhcGbhbhaVbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVbDbSbSbSbScjaVaVaVaVaVaVbeaUaUaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhaVbdaVaVaA
+ayaVaVaVaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhcHbhbhbhaVbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVbdbDbSbSbSbScjaVaVaVaVaVaVaVaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaA
+ayaVbdaVaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVbhbhbhbhbhbhbhbhaVaVbdaVaVbcaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVbdbDbSbSbSbScjaVaVaVaVaVaVaVaVaVaVaVbcaVbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaA
+ayaVbdaVaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVbdbDbSbSbSbScjaWaVaVbhbhbhbhbhbhaVbcaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaA
+ayaVbdaVaUaUaUaUaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhaVbhbhbhbhbhbhbhbhaVaVaVcoaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVbdbDbSbSbSbScjaWaVaVbhbhbhbhbhbhaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhaVcoaVaVaA
+ayaVbdaVbeaUaUaVaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhaVbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVbdbDbSbSbSbScjaVaVaVbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVbhbhbhbhbhbhbhaVaVaVaVaA
+ayaVaVaVaVaVaVaVaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhaVbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVbdbDbSbSbSbScjaVaVbdbhbhbhbhbhbhaVaVaVaVbcaVaVaVaVaVbhbhbhbhbhbhbhaVaVaVaVaA
+ayaWaVaVaVaVaVaVaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhaVbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVaVaVcIaVaVaZaZaVaVaVaVaVbDbSbSbSbScjaVaVaVbhbhbhbhbhbhaVaVaVaVaVaVaVbgaVaVbsbhbhbhbhbhbhaVaVaVaVaA
+ayaVaVbhbhbhaVaVaVaVbgaVbcaVbhbhbhbhbhbhbhbhbhbhbhbhcJbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVbfaZaVaVaVaVaVbDbSbSbSbScjaVaXaVbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVbhbhbhbhbhbhbhaVaVbcaVaA
+ayaVaVbhbhbhaVaVaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVaVaVblbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmcsbSbSbSbScjaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhaVcKaVaVbhbhbhbhbhbhbhaVaVaVaVaA
+ayaVaVbhbhbhaVaVaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVaVaVbtaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKbSbSbSbScjaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVbhbhbhbhbhbhbhaVaVaVaVaA
+ayaVcpbhbhbhaVaVbcbcaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVbzbBbBbBbBbBbBbBbBcLbBbBbAbBbBbBbBbBbBbBbBcMbBbBbSbSbSbScjaXaVaVbhbhbhbhbhbhbhbhbhbhbhbhaVcNaVaVbhbhbhbhbhbhbhaVaVaVaVaA
+ayaVaVaVaVaVbdaVaVaVaVcOaVaVbhbhbhbhbhbibhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaXaVaVbIbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbJbSbSbSbScjaXaVaVbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVbhbhbhbhbhbhbhaVaVaVaVaA
+ayaVaVaVaVaVaVaVaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVbRbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbScjaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVbhbhbhbhbhbhbhaVaVaVaVaA
+ayaVaVaVaVaVbhbhbhbhbhbhbhaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaXaVbRbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbScjaVaVaVaVaVaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaA
+ayaVaVaVaVaVbhbhbhbhbhbhbhaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaXaVaVaXaVbRbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbScjaVaVaVaVaVaVaVbcaVaVaVbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaA
+ayaVaVaVaVaVbhbhbhbhbhbhbhaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVbRbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbSbScjaVbjaVaVaVaVaVbcaVaVaVbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaA
+ayaVaVaVaVaVbhbhbhbhbhbhbhaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaXaVcececececececececececececececececececececececececececececPaVaVaVaVaVaVaVaVbcaVaVbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaXaVaA
+ayaVaVaVaVaVbhbhbhbhbhbhbhaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaWaWaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaUaUaUaUaVaVaXaVaA
+ayaUaUaUaUaVbhbhbhbhbhbhbhaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVbgaVaVaVaVaVaVaVaVaVaVaVaXaVaVbeaUaUaVaVaVaVaVaA
+aybeaUaUaVaVaVaVaVaVaVaVaVaXaVaVaVaVaVaVaVbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVaVbgaVaVaVaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaXaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaA
+ayaVaVaVaVaVbdaVaVaVaVaXaXaVaVaVaVaVaXaVaVbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaWaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaXaVaXaXaVaVaVaVaVaVaVaVaVaVaVaVaVaA
+cQcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcSaVbhbhbhaVcTcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcSaVaVaVaVaVaVcTcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcU
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayaVbhbhbhaVaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayaVbhbhbhbhaVaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayaVbhbhbhaVaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayaVbhbhbhbhaVaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayaVbhbhbhaVaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayaVbhbhbhbhaVaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayaVbhbhbhaVaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayaVbhbhbhbhaVaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayaVbhbhbhaVcVcVcVcVcVcVcVcVcVcVcVcVcVcVcVcVcVcVcVcVcVcVcVcVcVcVaVbhbhbhbhaVaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayaVbhbhbhaVcWaOaKaKaKaOaKaKaKcXaKaKaKaOaKaKaKaOaKaKaKcXaKaKaKcWaVbhbhbhbhaVaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayaVbhbhbhaVaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaRaVbhbhbhbhaVaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayaVbhbhbhaVaVbcaVbcbaaUaVaVaVaVbbaUaUaUaVbaaUaVaVaVaVccaVaVaVaVaVbhbhbhbhaVaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayaVbhbhbhaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVbhbhbhbhaVaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayaVbhbhbhaVaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVbhbhbhbhaVaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayaVaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhcYbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVaVaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaybcaVaVaVaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVaVaVaVaVbcaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayaVbcaVbcaVbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhbhaVaVaVbcaVbcbcaVaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacQcRcRcRcRcSaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVcZaVaVaVaVaVaVaVcTcRcRcRcRcRcUaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayaXaXaVbdbdbcaVbcbcbdbdbdbdbdbdbdbdbdbdbdbdbdbdaVaXaVaAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacQcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcRcUaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

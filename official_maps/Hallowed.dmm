@@ -1,0 +1,319 @@
+"aa" = (/Tiles/Small/Grass,/Tiles/Density,/area/outside)
+"ab" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_TL,/Tiles/Density,/area/outside)
+"ac" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Density,/area/outside)
+"ad" = (/Tiles/Small/Grass,/area/outside)
+"ae" = (/Tiles/Small/Grass,/Tiles/Bullet_Only,/area/outside)
+"af" = (/Effects/spawn_stuff/enemy_spawn_zone,/Tiles/Small/Grass,/area/outside)
+"ag" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_Right,/Effects/spawn_stuff/enemy_spawn_zone,/Tiles/Small/Grass_Edge/Grass_TL,/area/outside)
+"ah" = (/Effects/spawn_stuff/enemy_spawn_zone,/Tiles/Small/Dirt/Dirt_Main,/area/outside)
+"ai" = (/Effects/spawn_stuff/erise_zone,/Tiles/Small/Grass,/area/outside)
+"aj" = (/Tiles/Trash/Cardboard_Box/Big_Box,/Tiles/Small/Grass,/area/outside)
+"ak" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_Right,/area/outside)
+"al" = (/Tiles/Small/Dirt/Dirt_Main,/area/outside)
+"am" = (/Tiles/Small/Dirt/Dirt_Main,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Grass_Edge/Grass_TL,/area/outside)
+"an" = (/Tiles/Small/Dirt/Dirt_Main,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Grass_Edge/Grass_Right,/area/outside)
+"ao" = (/items/weapons/crossbow,/Tiles/Small/Dirt/Dirt_Main,/area/outside)
+"ap" = (/Tiles/Small/Grass,/Tiles/Density,/Tiles/Large/Tree/Tree_Bottom,/Tiles/Large/Tree/Dead_Top,/area/outside)
+"aq" = (/Tiles/Small/Grass,/Tiles/Large/Tree/Tree_Bottom,/Tiles/Large/Tree/Dead_Top,/area/outside)
+"ar" = (/Tiles/Small/Grass,/Tiles/Large/Tree/Tree_Bottom,/Tiles/Large/Tree/Tree_Top,/area/outside)
+"as" = (/Tiles/Trash/Newspaper,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Grass,/area/outside)
+"at" = (/Tiles/Small/Dirt/Dirt_Main,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Grass_Edge/Grass_Bottom,/area/outside)
+"au" = (/Effects/spawn_stuff/erise_zone,/Tiles/Small/Dirt/Dirt_Main,/area/outside)
+"av" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Large/Tree/Tree_Bottom,/Effects/spawn_stuff/erise_zone,/Tiles/Large/Tree/Dead_Top,/area/outside)
+"aw" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Bullet_Only,/area/outside)
+"ax" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Large/Tree/Tree_Bottom,/Effects/spawn_stuff/enemy_spawn_zone,/Tiles/Large/Tree/Tree_Top,/area/outside)
+"ay" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_TL,/area/outside)
+"az" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_Bottom,/Tiles/Medium/Tombstone/Tombstone2,/area/outside)
+"aA" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_Bottom,/area/outside)
+"aB" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_TR,/area/outside)
+"aC" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Large/Tree/Tree_Bottom,/items/weapons/burst_rifle,/Tiles/Large/Tree/Dead_Top,/area/outside)
+"aD" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Large/Tree/Tree_Bottom,/Tiles/Large/Tree/Dead_Top,/area/outside)
+"aE" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Restore_Ammo,/area/outside)
+"aF" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_Top,/area/outside)
+"aG" = (/Tiles/Small/Dirt/Dirt_Main,/Effects/spawn_stuff/player_spawn_zone,/Tiles/Small/Grass_Edge/Grass_Right,/area/outside)
+"aH" = (/Tiles/Small/Dirt/Dirt_Main,/Effects/spawn_stuff/player_spawn_zone,/Tiles/Small/Grass_Edge/Grass_Left,/area/outside)
+"aI" = (/Tiles/Small/Grass,/Tiles/Mausoleum/Mausoleum_TOP,/area/outside)
+"aJ" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_Left,/area/outside)
+"aK" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_BL,/area/outside)
+"aL" = (/Tiles/Trash/Paper/P2,/Tiles/Small/Dirt/Dirt_Main,/area/outside)
+"aM" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_Right,/Tiles/Large/Tree/Tree_Bottom,/Tiles/Large/Tree/Dead_Top,/area/outside)
+"aN" = (/Tiles/Medium/AmmoCrate,/Tiles/Small/Dirt/Dirt_Main,/area/outside)
+"aO" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Restore_Ammo,/Tiles/Large/Tree/Tree_Bottom,/Tiles/Large/Tree/Dead_Top,/area/outside)
+"aP" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Trash/Bottle/B2,/Tiles/Small/Grass_Edge/Grass_Right,/area/outside)
+"aQ" = (/Effects/spawn_stuff/player_spawn_zone,/Tiles/Small/Dirt/Dirt_Main,/area/outside)
+"aR" = (/Tiles/Trash/Bottle,/Tiles/Small/Dirt/Dirt_Main,/area/outside)
+"aS" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_BR,/area/outside)
+"aT" = (/Tiles/Small/Grass,/Tiles/Large/Tree/Tree_Bottom,/Effects/spawn_stuff/erise_zone,/Tiles/Large/Tree/Dead_Top,/area/outside)
+"aU" = (/items/weapons/shotgun,/Tiles/Small/Dirt/Dirt_Main,/area/outside)
+"aV" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_BL,/Tiles/Large/Tree/Tree_Bottom,/Tiles/Large/Tree/Dead_Top,/area/outside)
+"aW" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_Top,/Tiles/Bullet_Only,/area/outside)
+"aX" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Trash/Bottle,/Tiles/Small/Grass_Edge/Grass_Top,/area/outside)
+"aY" = (/Tiles/Small/Dirt/Dirt_Main,/Effects/spawn_stuff/player_spawn_zone,/Tiles/Small/Grass_Edge/Grass_Top,/area/outside)
+"aZ" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_Top,/Tiles/Density,/area/outside)
+"ba" = (/Tiles/Small/Grass,/Tiles/Medium/Hedges,/Tiles/Medium/Hedges/Hedge_TOP,/Tiles/Bullet_Only,/area/outside)
+"bb" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_Left,/Tiles/Large/Tree/Tree_Bottom,/Tiles/Large/Tree/Dead_Top,/area/outside)
+"bc" = (/Tiles/Small/Dirt/Dirt_Main,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Grass_Edge/Grass_Left,/area/outside)
+"bd" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_Right,/Tiles/PATHS/Mausoleum_OUTSIDE,/area/outside)
+"be" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/PATHS/Mausoleum_OUTSIDE,/area/outside)
+"bf" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_Left,/Tiles/PATHS/Mausoleum_OUTSIDE,/area/outside)
+"bg" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Trash/Bottle,/Tiles/Small/Grass_Edge/Grass_Left,/area/outside)
+"bh" = (/Tiles/Small/Grass,/Tiles/Medium/Trashcan,/area/outside)
+"bi" = (/Tiles/Small/Grass,/Tiles/Medium/Trash_Bag,/area/outside)
+"bj" = (/Tiles/Trash/Bottle/B2,/Tiles/Small/Grass,/area/outside)
+"bk" = (/Tiles/Small/Grass,/Tiles/Mausoleum/Mausoleum_Base,/Tiles/Density,/area/outside)
+"bl" = (/Tiles/Density,/area/outside)
+"bm" = (/Tiles/Bullet_Only,/area/outside)
+"bn" = (/Tiles/Small/Dirt/Dirt_Main,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Grass_Edge/Grass_TR,/area/outside)
+"bo" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_TR,/Tiles/Density,/area/outside)
+"bp" = (/Tiles/Small/Grass,/Tiles/Large/Obelisk/Obelisk_Base,/Tiles/Large/Obelisk/Obelisk_Top,/area/outside)
+"bq" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_Bottom,/Tiles/Large/Obelisk/Obelisk_Base,/Tiles/Large/Obelisk/Obelisk_Top,/area/outside)
+"br" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_Bottom,/Tiles/Bullet_Only,/area/outside)
+"bs" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_Bottom,/Tiles/Density,/area/outside)
+"bt" = (/items/weapons/auto_shotgun,/Tiles/Small/Dirt/Dirt_Main,/area/outside)
+"bu" = (/Tiles/Small/Grass,/Tiles/Large/Tree/Tree_Bottom,/Effects/spawn_stuff/erise_zone,/Tiles/Large/Tree/Tree_Top,/area/outside)
+"bv" = (/Tiles/Small/Grass,/Tiles/Medium/Tombstone,/Tiles/Bullet_Only,/area/outside)
+"bw" = (/Tiles/Small/Grass,/Tiles/Medium/Tombstone/Tombstone3,/Tiles/Bullet_Only,/area/outside)
+"bx" = (/Tiles/Small/Grass,/Tiles/Medium/Tombstone/Tombstone2,/Tiles/Bullet_Only,/area/outside)
+"by" = (/Tiles/Small/Grass,/Tiles/Medium/Tombstone/Flowers,/area/outside)
+"bz" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_Right,/Tiles/Density,/area/outside)
+"bA" = (/Tiles/Small/Dirt/Dirt_Main,/Effects/spawn_stuff/enemy_spawn_zone,/Tiles/Small/Grass_Edge/Grass_Left,/area/outside)
+"bB" = (/Tiles/Small/Dirt/Dirt_Main,/Effects/spawn_stuff/enemy_spawn_zone,/Tiles/Small/Grass_Edge/Grass_TL,/area/outside)
+"bC" = (/Tiles/Small/Grass,/Tiles/Large/Car2,/Tiles/Density,/area/outside)
+"bD" = (/Tiles/Small/Dirt/Dirt_Main,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Grass_Edge/Grass_Top,/area/outside)
+"bE" = (/Tiles/Small/Dirt/Dirt_Main,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Grass_Edge/Grass_BR,/area/outside)
+"bF" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_Left,/Tiles/Density,/area/outside)
+"bG" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Trash/Newspaper,/Tiles/Small/Grass_Edge/Grass_Left,/area/outside)
+"bH" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_BR,/Tiles/Density,/area/outside)
+"bI" = (/Tiles/Trash/Bottle,/Tiles/Small/Grass,/area/outside)
+"bJ" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_BL,/Tiles/Medium/Tombstone/Tombstone3,/Tiles/Bullet_Only,/area/outside)
+"bK" = (/Tiles/Machines/Teleporter1,/Tiles/Small/Dirt/Dirt_Main,/area/outside)
+"bL" = (/items/weapons/magnum,/Tiles/Small/Grass,/area/outside)
+"bM" = (/Tiles/Small/Grass,/Tiles/Large/Tree/Tree_Bottom,/Tiles/Large/Tree/Dead_Top,/Tiles/Density,/area/outside)
+"bN" = (/items/other_items/revive,/Tiles/Small/Grass,/area/outside)
+"bO" = (/Tiles/Small/Grass,/Tiles/Large/Tree/Tree_Bottom,/Tiles/Large/Tree/Tree_Top,/Tiles/Large/Tree,/area/outside)
+"bP" = (/Tiles/Trash/Cardboard_Box,/Tiles/Small/Grass,/area/outside)
+"bQ" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Trash/Paper/P2,/Tiles/Small/Grass_Edge/Grass_Right,/area/outside)
+"bR" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Small/Grass_Edge/Grass_BL,/Tiles/Density,/area/outside)
+"bS" = (/Tiles/Trash/Paper,/Tiles/Small/Grass,/area/outside)
+"bT" = (/Tiles/Small/Grass,/Tiles/Gothic_Fence/Gothic_Fence_Top,/Tiles/Density,/area/outside)
+"bU" = (/Tiles/Small/Grass,/Tiles/Gothic_Fence/Gothic_Fence_Top,/area/outside)
+"bV" = (/Tiles/Small/Grass,/Tiles/Trash/Bottle/B2,/Tiles/Gothic_Fence/Gothic_Fence_Top,/area/outside)
+"bW" = (/Tiles/Small/Grass,/Tiles/Gothic_Fence,/area/outside)
+"bX" = (/Tiles/Small/Dirt/Dirt_Main,/Tiles/Gothic_Fence/Gothic_Gate,/Tiles/Small/Grass_Edge/Grass_Right,/Tiles/Density,/area/outside)
+"bY" = (/Tiles/Small/Road/Road_Main,/area/outside)
+"bZ" = (/Tiles/Small/Road/Road_Main,/Tiles/Small/Dirt/Dirt_End,/area/outside)
+"ca" = (/Tiles/Small/Road/Road_Main,/Tiles/Medium/Sidewalk/Sidewalk1,/area/outside)
+"cb" = (/Tiles/Small/Road/Road_Main,/Tiles/Medium/Sidewalk/Sidewalk1,/Tiles/Medium/Sewer,/area/outside)
+"cc" = (/Tiles/Small/Road/Road_Main,/Tiles/Large/Car_Alarm,/area/outside)
+"cd" = (/Tiles/Small/Road/Road_Main,/Tiles/Medium/Drain,/area/outside)
+"ce" = (/turf,/area)
+"cf" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall_TL,/Tiles/Density,/area)
+"cg" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall_Top,/Tiles/Density,/area)
+"ch" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall_TR,/Tiles/Density,/area)
+"ci" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall_Left,/Tiles/Density,/area)
+"cj" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall,/area)
+"ck" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall_Right,/Tiles/Density,/area)
+"cl" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall,/Tiles/Small/Mausoleum_Inside/Empty_Burial,/area)
+"cm" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall,/Tiles/Small/Mausoleum_Inside/Buried,/area)
+"cn" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall,/Tiles/Theatre/Mold,/area)
+"co" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall_Base,/Tiles/Density,/area)
+"cp" = (/Tiles/Small/Mausoleum_Inside/Slab,/Tiles/Medium/Trash_Bag,/area)
+"cq" = (/Tiles/Small/Mausoleum_Inside/Slab,/area)
+"cr" = (/Tiles/Small/Mausoleum_Inside/Slab,/Tiles/Small/Mausoleum_Inside/Dry_Blood,/area)
+"cs" = (/Tiles/Small/Mausoleum_Inside/Slab,/Tiles/Small/Mausoleum_Inside/Bones,/area)
+"ct" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall_Right,/Tiles/Small/Mausoleum_Inside/Slab_Wall_Back,/Tiles/Density,/area)
+"cu" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall_Back,/Tiles/Density,/area)
+"cv" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall_Left,/Tiles/Small/Mausoleum_Inside/Slab_Wall_Back,/Tiles/Density,/area)
+"cw" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall_Back,/Tiles/Small/Mausoleum_Inside/Slab_Wall_Right,/Tiles/Density,/area)
+"cx" = (/Tiles/Density,/Tiles/Small/Mausoleum_Inside/Slab_Wall_Back,/area)
+"cy" = (/Tiles/Small/Mausoleum_Inside/Slab,/Tiles/Small/Mausoleum_Inside/Bone,/area)
+"cz" = (/Tiles/Small/Mausoleum_Inside/Old_Stairs,/area)
+"cA" = (/Tiles/Small/Mausoleum_Inside/Old_Stairs,/Tiles/PATHS/Mausoleum_INSIDE,/area)
+"cB" = (/Tiles/Density,/area)
+"cC" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall_Top,/Tiles/Small/Mausoleum_Inside/Slab_Wall_Right,/Tiles/Density,/area)
+"cD" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall_Top,/Tiles/Small/Mausoleum_Inside/Slab_Wall_Left,/Tiles/Density,/area)
+"cE" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall,/Tiles/Density,/area)
+"cF" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall_Base,/Tiles/Theatre/Mold/M2,/Tiles/Density,/area)
+"cG" = (/Tiles/Small/Mausoleum_Inside/Slab,/Tiles/Small/Mausoleum_Inside/Candle,/area)
+"cH" = (/Tiles/Small/Mausoleum_Inside/Slab,/Tiles/Medium/Drain,/area)
+"cI" = (/Tiles/Small/Mausoleum_Inside/Slab,/Tiles/Small/Mausoleum_Inside/Candle/Candle_Set,/area)
+"cJ" = (/Tiles/Small/Mausoleum_Inside/Slab,/Tiles/Small/Mausoleum_Inside/Candle/Candle2,/area)
+"cK" = (/Tiles/Small/Mausoleum_Inside/Slab,/Tiles/Small/Mausoleum_Inside/Column_Bottom,/Tiles/Small/Mausoleum_Inside/Column_Top,/area)
+"cL" = (/Tiles/Small/Mausoleum_Inside/Slab,/Tiles/Density,/area)
+"cM" = (/Tiles/Small/Mausoleum_Inside/Slab,/Tiles/Small/Mausoleum_Inside/Dry_Blood/Dry_Blood3,/area)
+"cN" = (/items/weapons/rifle,/Tiles/Small/Mausoleum_Inside/Slab,/area)
+"cO" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall,/Tiles/Theatre/Mold/M2,/area)
+"cP" = (/Tiles/Small/Mausoleum_Inside/Slab,/Tiles/Theatre/Mold,/area)
+"cQ" = (/Tiles/Small/Mausoleum_Inside/Slab,/Tiles/Small/Mausoleum_Inside/Dry_Blood/Dry_Blood2,/area)
+"cR" = (/Tiles/Small/Mausoleum_Inside/Slab,/Tiles/Small/Mausoleum_Inside/Coffin_Base,/Tiles/Small/Mausoleum_Inside/Coffin_Top,/Tiles/Density,/area)
+"cS" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall_Back,/Tiles/Small/Mausoleum_Inside/Slab_Wall_Left,/Tiles/Density,/area)
+"cT" = (/Tiles/Small/Mausoleum_Inside/Slab,/Tiles/Theatre/Mold/M2,/area)
+"cU" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall,/Tiles/Small/Mausoleum_Inside/Pulley,/area)
+"cV" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall_Base,/Tiles/Theatre/Mold,/Tiles/Density,/area)
+"cW" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall_BL,/Tiles/Density,/area)
+"cX" = (/Tiles/Small/Mausoleum_Inside/Slab_Wall_BR,/Tiles/Density,/area)
+"cY" = (/Tiles/Trash/Bottle,/Tiles/Small/Mausoleum_Inside/Slab,/area)
+"cZ" = (/Tiles/Small/Mausoleum_Inside/Slab,/items/other_items/revive,/Tiles/Small/Mausoleum_Inside/Bone,/area)
+"da" = (/Tiles/Small/Mausoleum_Inside/Slab,/Tiles/Small/Mausoleum_Inside/Pentagram,/Tiles/Small/Mausoleum_Inside/Candle,/area)
+"db" = (/Tiles/Trash/Paper/P2,/Tiles/Small/Mausoleum_Inside/Slab,/area)
+"dc" = (/Tiles/Trash/Bottle/B2,/Tiles/Small/Mausoleum_Inside/Slab,/area)
+"dd" = (/items/weapons/flamethrower,/Tiles/Small/Mausoleum_Inside/Slab,/area)
+"de" = (/Tiles/Small/Mausoleum_Inside/Slab,/Tiles/Small/Mausoleum_Inside/Dry_Blood/Dry_Blood3,/Tiles/Small/Mausoleum_Inside/Dry_Blood/Dry_Blood2,/area)
+"df" = (/Tiles/Machines/Teleporter2,/Tiles/Small/Mausoleum_Inside/Slab,/area)
+"dg" = (/Tiles/Small/Mausoleum_Inside/Slab,/Tiles/Small/Mausoleum_Inside/Column_Bottom,/Tiles/Small/Mausoleum_Inside/Column_Top,/Tiles/Small/Mausoleum_Inside/Candle/Candle_Set,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacacacacacacacacacac
+aaadadadadadadadadadadadadadadadadadadadadadadadadadadadaeaeafafafafafafafafafafafafadadadadadadadadadadadadadadadadadadadadagahahahahahahahahahahac
+aaadadadaiaiaiaiaiadadaiaiaiaiaiaiaiaiaiaiadadadadadadadajaeadadadadadadadadadadadadaiaiaiaiaiadadadadadadadaiaiaiaiaiaiaiaiakalalalalalalalalalalac
+aaadadadaiaiaiaiaiadadaiaiaiaiaiaiaiaiaiaiadadadadadadadadadadadadadadadadadadadadadaiaiaiaiaiadadadadadadadaiaiaiaiaiaiaiamalalalalalalalalalalalac
+aaadadadaiaiaiaiaiadadaiaiaiaiaiaiaiaiaiaiadadadadadadadadadadadadadadadadadadadadadaiaiaiaiaiadadadadadadadaiaiaiaiaiaiaianalalalalaoalalalalalalac
+apadaeaeadadadaqadaeaeadadadadadadadadadadaqadaeaeadadadadadadadadadadadadadadadadadadadadadadaradaeaeadadadaiaiaiasaiamataualalalalalalalalalalalac
+aaadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadaiaiaiamatauauavalawawalaxalawawalalalac
+aaadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadaiaiaianauauauaualalalalalalalalalalalac
+aaadaiaiaiadadadayazaAaAaAaAaAaAaAaAazaBadadadadadadadadadadadadadadadadadadadadadadadadadadadaiaiaiaiaiadadaiaiaianauauauaualalalalalalalalalalalac
+aaadaiaiaiadadayalaualaCalawawalalalaualaBadadaiaiadadadadadadadadadadadadadadadadadadadadadadaiaiaiaiaiadadaiaiaianauauauaualalalalalalaDalawawalac
+aaadaiaiaiadayalalalalaEaEaEaEaEaEalalalalaBadaiaiadadadadadadadadadadadadadadadadadadadadadadaiaiaiaiaiadadadadadakalaFaFalalalalalalalalalalalalac
+aaadaiaiaiadaGalalalalaEaEaEaEaEaEalalalalaHadaiaiadaIadadadadadadadadadadadadadadadadadadadadaiaiaiaiaiadadadadadakaJadadaKaFalalaDalawawalalalalac
+aaadaiaiaiadakalalalalaEaEaLalaEaEalalalalaJadaiaiadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaiaiaiaiaiadadadadadakaJadadadadaKalalalalalalalalalac
+aaadaiaiaiadaMalawawalaEaEaNalaEaOalawawalaJadaiaiadaaadadadadadadadadadadadadadadadadadadaaadaiaiaiaiaiadadadadadakaJadadadadaraKawawalalalalalalac
+aaadaiaiaiadakalalalalaEaEaEaEaEaEalalalalaJadaiaiadaaadadadadadadadadadadadadadadadadadadaaadaiaiaiaiaiadadadadadakaJadadadadadadaPalalalalalalalac
+aaadaiaiaiadaKalaQaRalaEaEaEaEaEaEalalaQalaSadaiaiadaaadadadadadadaaaaaaaaaaaaadadadadadadaaadaiaiaiaiaTadaeaeadadakaJadadadadadadaKaFaFalalalalalac
+aaadaiaiaiadadaKalalalalalalalalalaUalalaSadadaiaiadaaadadadadadadaaadadadadaaadadadadadadaaadaiaiaiaiaiadadadadadakaJadadadadadadadadadaVaFaWaWalac
+aaadadadadadadadaKaXaYaFaFalalaFaFaYaFaSadadadadadadaaadadadadadadaaadadadadaaadadadadadadaaadaiaiaiaiaiadadadadadakaJadadadadadadadadadadadadadaKaZ
+aaadadadadadadadadbaaebaaeakaJbaaebaaeadadadadadadadaaadadadadadadaaadadadadaaadadadadadadaaadaiaiaiaiaiaiaiaiaiaianbbadaeaeadadadadadadadadadadafaa
+aaadadadadadadadadadadaiaianbcaiaiaiaiadadadadadadadaaadadadadaaaaaabdbebebfaaaaaaadadadadaaadaiaiaiaiaiaiaiaiaiaianaJadadadadadadadadadadadadadafaa
+aaadadadadadadadadadadaiaianbcaiaiaiaiadadadadadadadaaadadadadaaadadakalalbgadadaaadadadadaaadadadadadaiaiaiaiaiaianaJadadadadadadaqadaeaeadadadafaa
+aaadadadadadadadadadadaiaianbcaiaiaiaiadadadadadadbhaaadadadadaaadadakalalaJadadaaadadadadaaadadadadadaiaiaiaiaiaianaJaiaiaiaiaiaiaiaiadadadadadafaa
+aaadadadaradaeaeadadadaiaianbcaiaiaiaiadadadadadbibjaaadadadadaaaeaeakalalaJaeaeaaadadadadaaadadadadadaiaiaiaiaiaianaJaiaiaiaiaiaiaiaiadadadadadafaa
+aaadadadadadadadadadadaiaianbcaiaiaiaiadadadadadbiadbkblblblblblbmbmakalalaJbmbmblblblblblbladadadadadadadadadadadakaJaiaiaiaiaiaiaiaiadadadadadafaa
+aaafaiaiaiaiaiaiaiadadaiaianbcaiaiaiaiadadadadadadadbaaebaaebaaebaaeanauaubcbaaebaaebaaebaaeaqadaeaeadadadadadadadakaJadadadadadadadadadaqadaeaeafaa
+aaafaiaiaiaiaiaiaiadadaiaianbcaiaiaiaiadadadadadadadadadadadadadadaianauaubcaiaiadadadadadadadadadadadadadadadadadakaJadadadadadadadadadadadadadafaa
+aaafaiaiaiaiaiaiaiadadaiaianbcaiaiaiaiadaqadaeaeadadadadadadadadadaianauaubcaiaiadadadadadadadadadadadadadadadadadakaJadadadadadadadadadadadadadafaa
+aaafaiaiaiaiaiaiaiadadadadakaJadaiaiaiaiaiaiaiaiaiaiadadadadadadadaianauauaubnaiadadadadadadadaiaiaiaiaiaiadadadadakaJadadaqadaeaeadadadadadadadafaa
+aaafaiaiaiaiaiaiaiadadadadakalaBaiaiaiaiaiaiaiaiaiaiadadadadadadadaianauauauaubnadadadadadadadaiaiaiaiaiaTadaeaeadakaJadadadadadadadadadadadadadafaa
+boafaiaiaiaiaiaiaiadadadadakalaJaiaiaiaiaiaiaiaiaiaiadadaeaaaaaeadaianauauauaubcadaeaaaaaeadadaiaiaiaiaiaiadadadadakaJadadadadadadadadadadadadadafaa
+acaBaiaiaiaiaiaiaTadaeaeadakalalbnaiaiaiaiaiaiaiaiaiadbpaeaaaaaeadayaQalalaQalalbqbrbsbsbraBadaiaiaiaiaiaiadadadadakaJaiaiaiaiaiaiadadadadadadadafaa
+acahbnaiaiaiaiaiaiadadadadakalalalaAaAaAaAaAaAaAaAaAaAaAatatatataAalalalbtalalalalauauauaualaAaAaAaAaAaAaAaAaAaAaAalaJaiaiaiaiaiaiadadadadadadadafaa
+acahaubnaiaiaiaiaiadadadadakalalaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaYalalalalaYaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFalaJaiaiaiaiaibuadaeaeaiaiaiaiaiaa
+acahalaJadadadadadadadafadakalaSbvadadadbvadadadbwadadadbxadadadbvadakalalaJadbvadadadbvadadadbwadadadbvadadadbxadakaJaiaiaiaiaiaiadadadaiaiaiaiaiaa
+acahalaJadadadadadadadadadakaJadaiadadadbyadadadaiadadadaiadadadaiadanauaubcadaiadadadaiadadadaiadadadaiadadadbyadakaJaiaiaiaiaiaiadadadaiaiaiaiaiaa
+acahalaSadadadadadadadadadakaJadaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiadanauaubcadaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiadakaJaiaiaiaiaiaiadadadaiaiaiaiaiaa
+acahaSadadadadadadadadadadakaJadadadadadadadadadadadadadadadadadadadanauaubcadadadadadadadadadadadadadadadadadadadakaJaiaiaiaiaiaiadadadaiaiaiaiaibz
+acbAadaqadaeaeadadadadadadakaJadbvadadadbwadadadbvadadadbvadadadbxadanauaubcadbvadadadbxadadadbvadadadbwadadadbvadakaJadadadadadadadadadaiaiaiaiaibz
+acbAadadadadadadadadadadadakaJadaiadadadaiadadadaiadadadaiadadadaiadanauaubcadaiadadadaiadadadbjadadadaiadadadaiadakaJadadadadadadadadadadadadadafbz
+acahaBadadadadadadaqadaeaeakaJadaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiadanauaubcadaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiadakaJadadadadadadaaaaaaaaadadadbBac
+acalaubnaiaiaiaiaiaiadadadakaJadadadadadadadadadadadadadadadadadadadanauaubcadadadadadadadadadadadadadadadadadadadakaJadadaqadaeaebCaaaaaaadadadakac
+acalbDbEaiaiaiaiaiaiadadadakaJadbwadadadbxadadadbvadadadbwadadadbvadanauaubcadbwadadadbvadadadbwadadadbxadadadbvadakaJadadadadadadbjadadadadadayahac
+acaSaiaiaiaiaiaiaiaiadadadakaJadaiadadadaiadadadaiadadadbyadadadaiadanauaubcadaiadadadaiadadadbyadadadaiadadadaiadakaJadadadadadadadadadadadadakahac
+bFadaiaiaiaiaiaiaiaiaiaiaiakbGadaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiadanauaubcadaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiaiadakaJadaiaiaiadadadadadadadayalahac
+bHadaiaiaiaiaiaiaiaiaiaiaiakaJadadadadadadadadadadadadadadadadadadadanauaubcadadadadadadadadadadadadadadadadadadadakaJadaiaiaiadadadadadadadakalahac
+aaadaiaiaiaiaiaiaiaiaiaiaiakaJadbxadadadbvadadadbxadadadbxadadadbvbIanauaubcadbxadadadbvadadadbxadadadbvadadadbwadakaJadaiaiaiadadadadadadadakalahac
+aaadaiaiaiaiaiaiaiaiaiaiaiakaJadaiadadadbyadadadaiadadadaiadadadaiadakalalaJadaiadadadaiadadadaiadadadaiadadadaiadakaJadaiaiaiadadadadadaqayawawahac
+aaaiaiaiaiaiaiaiaiaiaiaiaiakalaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAalalalalaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAalaJadaiaiaiadadadadadadakalalahac
+aaaiaiaiadadadadaiaiaiaiaiaKaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFalalalalalalaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaFaSadaiaiaiadadadadadayalalalahac
+aaaiaiaiadadadadaiaiaiaiaiadbaaebaaebaaebaaebaaebaaebaaebaaebaaebJalalbKalaJadbvbaaebaaebaaebaaebaaebaaebaaebaaebaaeadadadadaqadadadadayauauauauahac
+aaaiaiaiadadadadaiaiaiaiaiadadadadadadadadadadadadadadadadadadadaiakalalalaJadbyadadadadadadadadadadadadadadadadadadadadadadadadadadadakauauauauahac
+aaaiaiaiadadadadaiaiaiaiaiadaeaaaaaeadadadadadadadadadadadadadadadaKaQalalaHadadadadadadadadadadadadadbLadaeaabMaeaeaeadadadadadadadadakauauauauahac
+aaaiaiaibNadadadaiaiaiaiaibpaeaaaaaeadadadadadadadadadadadadadadadadakalalaJadadadadaradaeaeadadadadadadbpaeaaaaaeadadadadadafadadadadaKauauauauahac
+aaaiaibObPaeaeadaiaiaiaiaiadaiaiaiaiadaqadaeaeadadadadadadadadadbvadakalalaJadbxadadadadadadadadadadadadadaiaiaiaiadadadadadadadadadadadakalalalalac
+aaaiaiaiadadadadaiaiaiaiaiadadadadadadadadadadadadadadadadadadadaiadanauaubcadaiadadadadadadadadadadadadadadadadadadadadadadadadadadadadaKalalalalac
+aaaiaiaiadadaiamaAaAaAaAaAbnadadadadadadadadaiaiaiaiaiaiamaAaBadadadanauaubcadadadadaiaiaiaiadadadadadadadadadadadadadadadadadadadadadadadaKalalalac
+aaaiaiaiadadamaualalalalalbEadadadaiaiaiaiaiaiaiaiaiaiaiaKaFaSadadadanauaubcadadadadaiaiaiaiadadadadadayaBaiaiaiaiaiaiaiaiaiaTadaeaeadadadadaKalalac
+aaaiaiaiadadanauauauauaubEaiadadadaiaiaiaiaiaiaiaiaiaiaiaiadadadbxadanauaubcadbvadadaiaiaiaiadadadadadakalatatatbnaiaiaiaiaiaiadadadadadadadadaKalac
+aaaiaiaiadadanauauauaubcaiaiadadadaiaiaiaiaiaiaiadadadadadadadadaiadanauaubcadaiadadaiaiaiaTadaeaeadaiaKaualauauaubnaiaiaiaiaiadadadadadadadadadakac
+aaaiaiaiadadaKauauaubDbEaiaiadadadaiaiaiaiaiaiaiadadadadadadadadadadbQauaubcadadadadaiaiaiaiadadadadaiaiaKalauauaubcaiaiaiaiaiadadadadaradaeaeadaKac
+aaafadadadadaiaKbDbEaiaiaiaiadadadaiaiaiaiaiaiaiadadadbIadadadadadadanauaubcadadadadaiaiaiaiadadadadaiaiaiaKbDbDbDbEaiaiaiaiaiaiaiadadadadadadadadbz
+aaafadadadadadadadadadadadadadadadaiaiaiaiaiaiaiadadadadadadadadbvadanauaubcadbwadaiaiaiaiaiaiadadadadadadadadadadadaiaiaiaiaiaiaiadadadadadadadadbz
+aaafaqadaeaeadadadadadaqadaeaeadadadadadadadadadadadadaqadaeaeadaiadanauaubcadaiadaiaiaiaiaiaiadadadadadadadadadadadaiaiaiaiaiaiaiadadadadadadadadbR
+aaafadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadanauaubcadadadaiaiaiaiaiaiadadadadadadadafadadadaiaiaiaiaiaiaiadadadadadadadadaa
+aaafadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadakalalaJadadadaiaiaiaiaiaiadadadadadadadadadadadadadadadadadadaqadaeaeadadadadaa
+aaadadadadadadadadadadadadadadadadadadadadadadadaqadaeaeadadadadadadakahahbAbSadadadadadadadadaqadaeaeadadadadadadadbjadadadadadadadadadadadadadadaa
+aaadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadakalalaJadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadaa
+bTadbUadbUadbUadbUadbUadbUadbUadbUadbUadbUadbUadbUadbUadbUadbUadbVadakalalaJbUadbUadbUadbUadbUadbUadbUadbUadbUadbUadbUadbUadbUadbUadbUadbUadbUadbUaa
+bWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbXacacbFbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbWbW
+biadadadadadadadadadadadadaradadadadadadadadadadadadadadadadadadbiadakalalaJbhadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadajadadadad
+aradadadadadadadadadadadadadadadadadadadadaradadadadadadadadadbiadadakalalaJadadadadadadadadadadadadadadadadadadadadadadaradadadadadadadadadadadadad
+bYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbZbZbZbZbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbY
+cabYcabYcabYcabYcabYcabYcabYcbbYcabYcabYcabYcabYcabYcabYcabYcabYcabYbYbYbYbYcabYcabYcabYcabYcabYcabYcabYcabYcabYcabYcabYcabYcabYcabYcabYcabYcabYcabY
+bYbYbYbYbYbYbYbYccbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYcdbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbY
+bYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbYbY
+"}
+
+(1,1,2) = {"
+cececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececece
+cececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececece
+cececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececece
+cececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececece
+cececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececece
+cececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececececece
+cececececececececececececececececececececececfcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgchcececececececececececececececececececececece
+cececececececececececececececececececececececicjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjckcececececececececececececececececececececece
+cececececececececececececececececececececececicjclcjcjcjclcjcjcjclcjcjcjcmcjcjcjclcjcncjclcjcjcjcmcjcjckcececececececececececececececececececececece
+cececececececececececececececececececececececicocococococococococococococococococococococococococococockcececececececececececececececececececececece
+cececececececececececececececececececececececicpcqcqcqcqcqcqcqcqcqcqcqcqcqcrcqcqcqcqcqcqcqcqcqcqcscqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqctcucucucucucucucvcqcqcqcqcwcxcucucucucucucucucvcqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqckcecececececececicqcycqcqckcecececececececececicqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqckcecececececececicqcqcqcqckcecececececececececicqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqckcecececececececicqcqcqcqckcecececececececececicqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqckcecececececececicqcqcqcqckcecececececececececicqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqckcecececececececicqcqcqcqckcecececececececececicqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqckcecececececececiczczczczckcecececececececececicqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqckcecececececececicAcAcAcAckcecececececececececicqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqckcecececececececBcBcBcBcBcBcecececececececececicqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqckcececececececececececececececececececececececicqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqckcececececececececececececececececececececececicqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqcCcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcDcqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqcEcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcEcqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqcEcjcjclcjcjcjcmcjcjcjclcjcjcjclcjcjcjcmcjcjcjcEcqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqcocococococococFcococococococococococococococococqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqcGcqcqcqcqcqcqcqcqcHcqcqcqcqcqcqcqcqcqcqcqcqcqcGcqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqcqcqcqcqcqcqcqcqcqcqcqcIcJcqcqcqcqcqcqcqcqcqcqcqcqcqckcececececececececececececececececececececece
+cececececececececececececececececececececececicqcqcqcKcLcLcscqcqcqcqcqcqcMcqcqcqcqcqcqcqcqcKcLcLcqcqcqckcececececececececececececececececececececece
+cecececfcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcDcqcqcqcqcqcqcqcqcqcqcqcqcGcqcqcGcqcqcqcqcqcqcqcqcqcqcqcqcCcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgcgch
+cecececicjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcEcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcNcqcqcqcycEcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjcjck
+cecececiclcjcOcjclcjcjcjclcjcjcjclcjcjcjcmcjcEcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcPcqcqcqcEcjcjclcjcjcjclcjcjcjcmcjcjcjclcjcjcjclcjcjck
+cecececicocococococococococococococococococococJcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcGcocococococococococococococFcocococococococock
+cecececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcQcqcqcqcqcqcqcqcqcqcqcqcqcqcLcLcLcLcLcLcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqck
+cecececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcGcRcLcLcLcLcLcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqck
+cecececicqcqctcucucucucucucucucucucucucucucucvcGcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcIcqcqcqcqcqcqcqcqcqcqcJctcucucucucucucucucucucucucucucucucucucScqcqck
+cecececicqcqckcecececececececececececececececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqckcececececececececececececececececececicqcqck
+cecececicqcqckcecececececececececececececececicqcTcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqckcececececececececececececececececececicqcqck
+cecececicqcqcCcgcgcgcgcgcgcgcgcgcgcgcgchcececicqcqcqcKcLcLcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcKcLcLcqcqcqckcececececececfcgcgcgcgcgcgcgcgcgcgcgcDcqcqck
+cecececicqcqcEcjcjcjcjcjcjcjcjcjcjcjcjckcececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqckcececececececicjcjcjcjcjcjcjcjcjcjcjcEcqcqck
+cecececicqcqcEcUcjcjcjcjcjcjcjcjcjcUcjckcececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqckcececececececicjcUcjcjcjcjcjcjcOcjcUcEcqcqck
+cecececicqcqcocococococococVcococococockcececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqckcececececececicococococococococococococqcqck
+cecececicqcqcqcscqcqcHcqcqcqcqcqcqcqcqckcececWcucucucucucScqcqcwcucucucucucucucucucucucScqcqcwcucucucucXcececececececicpcqcqcqcYcqcqcqcqcqcqcGcqcqck
+cecececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqckcececececececececicqcqckcecececececececececececicqcqckcecececececececececececicpcqcqcqcqcqcqcqcycqcqcqcqcqck
+cecececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqckcececececececececicqcqckcecececececececececececicqcqckcecececececececececececicqcqcqcqcqcqcqcqcqcqcqcqcqcqck
+cecececicqcqcqcqcqcqcJcqcqcqcqcqcqcqcqckcececececececececicqcqckcecececececececececececicqcqckcecececececececececececicqcqcqcqcqcqcqcqcqcqcqcqcqcqck
+cecececicqcqcqcqcqcqcqcqcqcqcKcLcLcqcqckcececececececececicqcqckcecececececececececececicqcqckcecececececececececececicqcKcLcLcGcqcqcqcqcqcqcqcqcqck
+cecececicqcqcqcGcqcqcqcqcqcqcGcqcqcqcqckcececececececececicqcqckcecececececececececececicqcqckcecececececececececececicqcqcqcqcqcqcqcqcqcqcqcqcqcqck
+cecececicqcqcqcqcqcqcscZcqcqcqcqcqcqcqckcececececececececicqcqckcecececececececececececicqcqckcecececececececececececicqcqcqcqcqcqcqcqcqcqcqcqcqcqck
+cecececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqckcececececececececicqcqckcecececececececececececicqcyckcecececececececececececicqcTcqcqcqcqcqcqcqcqcqcqcqcqck
+cecececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcCcgcgcgcgcgcgcgcgcDcqcqcCcgcgcgcgcgcgcgcgcgcgcgcDcqcqcCcgcgcgcgcgcgcgcgcgcgcgcDcqcqcqcqcqcqcqcqcqcqcqcqcqcqck
+cecececicqcqcqcqdacqcqcqcqcJcqcqcqcqcqcEcjcjcjcjcjcjcjcjcEcqcqcEcjcjcjcjcjcjcjcjcjcjcjcEcqcqcEcjcjcjcjcjcjcjcjcjcjcjcEcqcqcqcqcqcqcqcqcqcqcqcqcqdbck
+cecececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcEcjclcjcjcjclcjcjcEcscqcEclcjcjcjcmcjcOcjclcjcjcEcqcqcEclcjcjcjclcjcjcjcmcjcjcEcYcqcqcqcqcqcqcqcqcqcqcqcqcqck
+cecececicqcqcqcqcqcqcycqcqcqcqcqcqcqcqcococococococococococqcqcocococococococococococococqcqcococococococococococococodccqcqcqcqcqcqcqcqcqcqcqcqcqck
+cecececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcHcqcqcqcqcqcqcscqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqck
+cecececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqck
+cecececWcucucucucucucucucucucucucucucucucucucucucucucucucucucucucucucucScqcqcwcucucucucucucucucucucucucucucucucucucucucucucucucucucucucucucucucucucX
+cecececececececececececececececececececececececececececececececececececicqcqckcecececececececececececececececececececececececececececececececececece
+cecececececececececececececececececececececececfcgcgcgcgcgcgcgcgcgcgcgcDcqcqcCcgcgcgcgcgcgcgcgcgcgcgcgchcececececececececececececececececececececece
+cecececececececececececececececececececececececicjcjcjcjcjcjcjcjcjcjcjcEcqcqcEcjcjcjcjcjcjcjcjcjcjcjcjckcececececececececececececececececececececece
+cecececececececececececececececececececececececicjcUcjcjcjcjcjcjcjcjcUcEcqcqcEcUcjcjcjcjcjcjcncjcjcUcjckcececececececececececececececececececececece
+cecececececececececececececececececececececececicococococococococococococqcqcococococococococococococockcececececececececececececececececececececece
+cecececececececececececececececececececececececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqckcececececececececececececececececececececece
+cecececececececececececececececececececececececicPcqcqcqcqcqcqcycqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqckcececececececececececececececececececececece
+cecececececececececececececececececececececececicqcqcqcqcqcqcqcqddcqcqcqcqcqcqcqcQcqcrcqcqcqcqcqcqcqcqckcececececececececececececececececececececece
+cecececececececececececececececececececececececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqdecqcqcqcqcqcqcqcqcqckcececececececececececececececececececececece
+cecececececececececececececececececececececececicqcqcqcqcqcqcqcqcrcQcqcqdfcqcqcqcqcqcqcqcqcqcqcqcqcqcqckcececececececececececececececececececececece
+cecececececececececececececececececececececececicqcqcKcLcLcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqdgcLcLcqcqcqckcececececececececececececececececececececece
+cecececececececececececececececececececececececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqckcececececececececececececececececececececece
+cecececececececececececececececececececececececicqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqcqckcececececececececececececececececececececece
+cecececececececececececececececececececececececWcucucucucucucucucucucucucucucucucucucucucucucucucucucucXcececececececececececececececececececececece
+"}

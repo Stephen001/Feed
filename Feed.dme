@@ -1,0 +1,64 @@
+// DM Environment file for Interface.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+/*
+FILE: READ_ME.txt
+*/
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "audio"
+#define FILE_DIR "audio/music"
+#define FILE_DIR "audio/sound"
+#define FILE_DIR "hud_weapons"
+#define FILE_DIR "icon_sthit"
+#define FILE_DIR "icons"
+#define FILE_DIR "items"
+#define FILE_DIR "official_maps"
+#define FILE_DIR "other"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "AI.dm"
+#include "Area.dm"
+#include "Audio.dm"
+#include "Barricades.dm"
+#include "Chat.dm"
+#include "Client.dm"
+#include "Color .dm"
+#include "Core.dm"
+#include "Customization.dm"
+#include "D_Damage.dm"
+#include "Effects.dm"
+#include "Explosive.dm"
+#include "GameModes.dm"
+#include "Hud.dm"
+#include "Interface.dm"
+#include "LoginSystem.dm"
+#include "Machines.dm"
+#include "Main.dm"
+#include "Map_Loader.dm"
+#include "Medals.dm"
+#include "Movement.dm"
+#include "Object Recycle.dm"
+#include "Procs.dm"
+#include "Projectiles.dm"
+#include "Ranks.dm"
+#include "Save n Load.dm"
+#include "Triggers.dm"
+#include "Turf.dm"
+#include "Vars.dm"
+#include "Verbs.dm"
+#include "Interface.dmf"
+#include "Limbo.dmm"
+#include "items\Items.dm"
+#include "other\dmm_suite.dm"
+#include "other\reader.dm"
+// END_INCLUDE
+

@@ -1,0 +1,266 @@
+"aa" = (/Tiles/Small/Wall_A/A11,/Tiles/Bullet_Only,/area/outside)
+"ab" = (/Tiles/Small/Wall_A/A12,/Tiles/Bullet_Only,/area/outside)
+"ac" = (/Tiles/Small/Grass,/area/outside)
+"ad" = (/Tiles/Small/Road/Road_Main,/Tiles/Small/Highway,/Tiles/Bullet_Only,/area/outside)
+"ae" = (/Tiles/Small/Road/Road_Main,/Tiles/Density,/area/outside)
+"af" = (/Tiles/Small/Road/Road_Main,/Tiles/Small/Highway/Highway2,/Tiles/Bullet_Only,/area/outside)
+"ag" = (/Tiles/Small/Wall_A/A7,/area/outside)
+"ah" = (/Tiles/Small/Wall_A/A8,/area/outside)
+"ai" = (/Tiles/Small/Wall_A/A8,/Tiles/Medium/Trash_Bag,/area/outside)
+"aj" = (/Tiles/Trash/Bottle,/Tiles/Small/Wall_A/A8,/area/outside)
+"ak" = (/Tiles/Trash/Cardboard_Box,/Tiles/Small/Wall_A/A8,/area/outside)
+"al" = (/Tiles/Small/Wall_A/A9,/Tiles/Bullet_Only,/area/outside)
+"am" = (/Effects/spawn_stuff/enemy_spawn_zone,/Tiles/Small/Road/Road_Main,/area/outside)
+"an" = (/Effects/spawn_stuff/player_spawn_zone,/Tiles/Small/Wall_A/A8,/area/outside)
+"ao" = (/Tiles/Small/Road/Road_Main,/area/outside)
+"ap" = (/Tiles/Small/Road/Road_Main,/Tiles/Medium/RoadlineC,/area/outside)
+"aq" = (/Effects/spawn_stuff/erise_zone,/Tiles/Small/Road/Road_Main,/area/outside)
+"ar" = (/Tiles/Small/Road/Road_Main,/Effects/spawn_stuff/erise_zone,/Tiles/Medium/RoadlineC,/area/outside)
+"as" = (/Tiles/Small/Grass,/Tiles/Bullet_Only,/area/outside)
+"at" = (/Tiles/Small/Road/Road_Main,/Tiles/Small/Highway/Highway3,/Tiles/Bullet_Only,/area/outside)
+"au" = (/Tiles/Small/Road/Road_Main,/Tiles/Large/Car2,/Tiles/Density,/area/outside)
+"av" = (/Tiles/Small/Road/Road_Main,/Tiles/Barricades/Cone,/Tiles/Density,/area/outside)
+"aw" = (/Tiles/Barricades/Cone,/Tiles/Small/Road/Road_Main,/area/outside)
+"ax" = (/Tiles/Small/Road/Road_Main,/Tiles/Small/Highway,/Tiles/Trash/Paper/P2,/Tiles/Bullet_Only,/area/outside)
+"ay" = (/Tiles/Small/Wall_A/A8,/Tiles/Large/AC_Unit,/area/outside)
+"az" = (/Tiles/Small/Wall_A/A8,/Tiles/Restore_Ammo,/area/outside)
+"aA" = (/items/weapons/rifle,/Tiles/Small/Wall_A/A8,/area/outside)
+"aB" = (/Tiles/Small/Wall_A/A9,/Tiles/Small/Plank/Plank4,/area/outside)
+"aC" = (/Tiles/Small/Grass,/Tiles/Small/Plank/Plank5,/area/outside)
+"aD" = (/Tiles/Small/Road/Road_Main,/Tiles/Small/Plank/Plank6,/area/outside)
+"aE" = (/obj/enviroment/hazard/barrel,/Tiles/Small/Road/Road_Main,/area/outside)
+"aF" = (/Tiles/Small/Wall_A/A8,/Tiles/Large/Roof_Door,/area/outside)
+"aG" = (/Tiles/Small/Wall_A/A8,/Tiles/Theatre/Mold/M2,/area/outside)
+"aH" = (/Tiles/Small/Grass,/Tiles/Large/Tree,/area/outside)
+"aI" = (/Tiles/Medium/AmmoCrate,/Tiles/Small/Wall_A/A8,/area/outside)
+"aJ" = (/Tiles/Small/Grass,/Tiles/Small/Plank/Plank10,/area/outside)
+"aK" = (/Tiles/Small/Road/Road_Main,/Tiles/Small/Plank/Plank4,/area/outside)
+"aL" = (/Tiles/Small/Road/Road_Main,/Tiles/Small/Plank/Plank9,/area/outside)
+"aM" = (/items/weapons/burst_rifle,/Tiles/Small/Wall_A/A8,/area/outside)
+"aN" = (/Tiles/Small/Wall_A/A8,/Tiles/Theatre/Mold,/area/outside)
+"aO" = (/Tiles/Small/Wall_A/A8,/Tiles/Trash/Bottle/B2,/Tiles/Bullet_Only,/area/outside)
+"aP" = (/Tiles/Small/Wall_A/A8,/Tiles/Bullet_Only,/area/outside)
+"aQ" = (/Tiles/Machines/Teleporter1,/Tiles/Small/Wall_A/A8,/area/outside)
+"aR" = (/Tiles/Trash/Paper/P2,/Tiles/Small/Wall_A/A8,/area/outside)
+"aS" = (/Tiles/Small/Road/Road_Main,/Tiles/Large/Car_Alarm,/Tiles/Density,/area/outside)
+"aT" = (/Tiles/Small/Wall_A/A8,/Tiles/Large/AC_Unit,/Tiles/Bullet_Only,/area/outside)
+"aU" = (/Tiles/Small/Wall_A/A8,/Tiles/Helipad,/area/outside)
+"aV" = (/Tiles/Small/Wall_A/A5,/Tiles/Bullet_Only,/area/outside)
+"aW" = (/Tiles/Small/Wall_A/A6,/Tiles/Bullet_Only,/area/outside)
+"aX" = (/Tiles/Small/Building/B2,/area/outside)
+"aY" = (/Tiles/Small/Building/B7,/area/outside)
+"aZ" = (/Tiles/Small/Wall_A/A4,/area/outside)
+"ba" = (/Tiles/Small/Wall_A/A5,/area/outside)
+"bb" = (/Tiles/Trash/Newspaper,/Tiles/Small/Road/Road_Main,/area/outside)
+"bc" = (/Tiles/Small/Building/B6,/area/outside)
+"bd" = (/Tiles/Small/Building/B2,/Tiles/Medium/Wall_Chip,/area/outside)
+"be" = (/Tiles/Small/Building/B2,/Tiles/Theatre/Mold,/area/outside)
+"bf" = (/Tiles/Small/Road/Road7,/Tiles/Small/Highway/Highway3,/Tiles/Bullet_Only,/area/outside)
+"bg" = (/Tiles/Small/Road/Road7,/area/outside)
+"bh" = (/Tiles/Small/Road/Road8,/area/outside)
+"bi" = (/Tiles/Small/Road/Road7,/Tiles/Small/Plank/Plank3,/area/outside)
+"bj" = (/Tiles/Small/Road/Road7,/Tiles/Small/Highway/Highway4,/Tiles/Bullet_Only,/area/outside)
+"bk" = (/Tiles/Small/Building/B2,/Tiles/Small/Building/Window1,/area/outside)
+"bl" = (/Tiles/Small/Grass,/Tiles/Small/Road/Road9,/Tiles/Bullet_Only,/area/outside)
+"bm" = (/Tiles/Small/Grass,/Tiles/Small/Total_Shadow,/Tiles/Small/Road/Road9,/Tiles/Bullet_Only,/area/outside)
+"bn" = (/Tiles/Small/Grass,/Tiles/Small/Total_Shadow,/Tiles/Small/Road/Road9,/Tiles/Small/Plank/Plank2,/area/outside)
+"bo" = (/Tiles/Small/Grass,/Tiles/Small/Total_Shadow,/area/outside)
+"bp" = (/Tiles/Small/Grass,/Tiles/Small/Total_Shadow,/Tiles/Bullet_Only,/area/outside)
+"bq" = (/Tiles/Small/Grass,/Tiles/Small/Total_Shadow,/Tiles/Small/Plank/Plank2,/area/outside)
+"br" = (/Tiles/Small/Grass,/Tiles/Theatre/Mold,/Tiles/Small/Total_Shadow,/Tiles/Small/Plank/Plank2,/area/outside)
+"bs" = (/Tiles/Small/Building/B2,/Tiles/Small/Building/Window1/W2,/area/outside)
+"bt" = (/Tiles/Small/Grass,/Tiles/Small/Road/Roadshadow,/area/outside)
+"bu" = (/Tiles/Small/Grass,/Tiles/Small/Road/Roadshadow,/Tiles/Bullet_Only,/area/outside)
+"bv" = (/Tiles/Small/Grass,/Tiles/Small/Road/Roadshadow,/Tiles/Small/Plank/Plank2,/area/outside)
+"bw" = (/Tiles/Small/Grass,/Tiles/Small/Road/Roadshadow,/Tiles/Small/Plank/Plank8,/area/outside)
+"bx" = (/Tiles/Small/Building/B2,/Tiles/Theatre/Mold/M2,/area/outside)
+"by" = (/Tiles/Small/Grass,/Tiles/Small/Plank/Plank2,/area/outside)
+"bz" = (/Tiles/Small/Grass,/items/weapons/crossbow,/Tiles/Small/Plank/Plank2,/area/outside)
+"bA" = (/Tiles/Small/Grass,/Tiles/Small/Plank/Plank8,/area/outside)
+"bB" = (/Tiles/Trash/Bottle/B2,/Tiles/Small/Road/Road_Main,/area/outside)
+"bC" = (/Tiles/Small/Grass,/Tiles/Large/Tree,/Tiles/Bullet_Only,/area/outside)
+"bD" = (/Tiles/Small/Grass,/Tiles/Small/Road/Road5,/Tiles/Small/Highway,/Tiles/Bullet_Only,/area/outside)
+"bE" = (/Tiles/Small/Grass,/Tiles/Small/Road/Road6,/area/outside)
+"bF" = (/Tiles/Small/Grass,/Tiles/Small/Road/Road5,/area/outside)
+"bG" = (/Tiles/Small/Grass,/Tiles/Small/Road/Road5,/Tiles/Small/Plank,/area/outside)
+"bH" = (/Tiles/Small/Grass,/Tiles/Small/Road/Road6,/Tiles/Small/Plank,/area/outside)
+"bI" = (/Tiles/Small/Grass,/Tiles/Trash/Bottle/B2,/Tiles/Small/Road/Road6,/area/outside)
+"bJ" = (/Tiles/Small/Grass,/Tiles/Small/Road/Road5,/Tiles/Small/Plank/Plank7,/area/outside)
+"bK" = (/Tiles/Small/Grass,/Tiles/Small/Road/Road6,/Tiles/Small/Plank/Plank7,/area/outside)
+"bL" = (/Tiles/Small/Grass,/Tiles/Small/Road/Road5,/Tiles/Small/Highway/Highway2,/Tiles/Bullet_Only,/area/outside)
+"bM" = (/Tiles/Small/Building/B2,/Tiles/Medium/Posters/Biohazard2,/area/outside)
+"bN" = (/Tiles/Small/Building/B2,/Tiles/Medium/Posters/Biohazard1,/area/outside)
+"bO" = (/Tiles/Small/Road/Road_Main,/Tiles/Barricades/Cone,/Tiles/Medium/RoadlineC,/area/outside)
+"bP" = (/Tiles/Small/Grass,/Tiles/Small/Building/B4,/area/outside)
+"bQ" = (/Tiles/Small/Grass,/Tiles/Trash/Bottle,/Tiles/Small/Building/B4,/area/outside)
+"bR" = (/Tiles/Small/Grass,/Tiles/Small/Building/B4,/Tiles/Small/Building/Door,/area/outside)
+"bS" = (/Tiles/Small/Grass,/Tiles/Small/Building/B4,/Tiles/Large/Loading_Door,/area/outside)
+"bT" = (/Tiles/Small/Grass,/Tiles/Small/Building/B5,/area/outside)
+"bU" = (/Tiles/Trash/Paper/P2,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Road/Road_Main,/area/outside)
+"bV" = (/Tiles/Small/Building/B2,/Tiles/Medium/Posters/Ripped,/area/outside)
+"bW" = (/Tiles/Small/Grass,/Tiles/Medium/Sidewalk,/Tiles/Medium/Sidewalk/Sidewalk1,/area/outside)
+"bX" = (/Tiles/Small/Grass,/Tiles/Medium/Sidewalk,/Tiles/Trash/Cardboard_Box/Big_Box,/Tiles/Medium/Sidewalk/Sidewalk1,/area/outside)
+"bY" = (/Tiles/Small/Grass,/Tiles/Medium/Sidewalk,/Tiles/Medium/Sidewalk/Sidewalk1,/Tiles/Medium/Cart1,/area/outside)
+"bZ" = (/Tiles/Small/Road/Road_Main,/Tiles/Large/Car,/Tiles/Density,/area/outside)
+"ca" = (/Tiles/Small/Grass,/Tiles/Medium/Drain,/area/outside)
+"cb" = (/Tiles/Small/Grass,/Tiles/Small/Building/B3,/area/outside)
+"cc" = (/Tiles/Small/Grass,/Tiles/Medium/Sidewalk/Sidewalk1,/area/outside)
+"cd" = (/Tiles/Small/Grass,/Tiles/Medium/Sidewalk/Sidewalk1,/Tiles/Medium/Trash_Bag,/area/outside)
+"ce" = (/Tiles/Small/Grass,/Tiles/Medium/Sidewalk,/Tiles/Theatre/Mold,/Tiles/Medium/Sidewalk/Sidewalk1,/area/outside)
+"cf" = (/Tiles/Small/Grass,/Tiles/Medium/Trash_Bag,/area/outside)
+"cg" = (/Tiles/Small/Grass,/Tiles/Medium/Trashcan,/area/outside)
+"ch" = (/Tiles/Small/Road/Road_Main,/Tiles/Medium/RoadlineC,/Tiles/Density,/area/outside)
+"ci" = (/Tiles/Trash/Bottle,/Tiles/Small/Grass,/area/outside)
+"cj" = (/Tiles/Trash/Bottle/B2,/Tiles/Small/Grass,/area/outside)
+"ck" = (/Tiles/Small/Ditch,/area/outside)
+"cl" = (/Tiles/Small/Ditch/Ditch_pipe,/area/outside)
+"cm" = (/Tiles/Small/Grass,/Tiles/Small/DirtyWater,/area/outside)
+"cn" = (/Tiles/Small/DirtyWater/DW2,/area/outside)
+"co" = (/Tiles/Trash/Bottle/B2,/Tiles/Small/DirtyWater/DW2,/area/outside)
+"cp" = (/Tiles/Small/DirtyWater/DW2,/Tiles/Small/Grass_Edge/Grass_Top,/area/outside)
+"cq" = (/Tiles/Trash/Paper,/Tiles/Small/Ditch/Ditch2,/area/outside)
+"cr" = (/Tiles/Small/Ditch/Ditch2,/area/outside)
+"cs" = (/Tiles/Trash/Cardboard_Box,/Tiles/Small/Ditch/Ditch2,/area/outside)
+"ct" = (/Tiles/Small/Ditch/Ditch2,/Tiles/Medium/Trash_Bag,/area/outside)
+"cu" = (/Tiles/Trash/Paper/P2,/Tiles/Small/Grass,/area/outside)
+"cv" = (/Tiles/Small/Road/Road8,/Tiles/Small/Highway/Highway3,/Tiles/Bullet_Only,/area/outside)
+"cw" = (/Tiles/Small/Road/Road8,/Tiles/Small/Plank/Plank3,/area/outside)
+"cx" = (/Tiles/Small/Road/Road8,/Tiles/Small/Highway/Highway4,/Tiles/Bullet_Only,/area/outside)
+"cy" = (/Tiles/Small/Grass,/Tiles/Theatre/Mold/M2,/area/outside)
+"cz" = (/Tiles/Small/Grass,/Tiles/Small/Total_Shadow,/Tiles/Small/Plank/Plank8,/area/outside)
+"cA" = (/Tiles/Small/Grass,/Tiles/Theatre/Mold,/Tiles/Small/Plank/Plank2,/area/outside)
+"cB" = (/Tiles/Small/Grass,/items/weapons/shotgun,/Tiles/Small/Plank/Plank8,/area/outside)
+"cC" = (/Tiles/Small/Grass,/Tiles/Theatre/Mold,/area/outside)
+"cD" = (/Tiles/Trash/Bottle,/Tiles/Small/Road/Road_Main,/area/outside)
+"cE" = (/Tiles/Trash/Paper,/Tiles/Small/Grass,/area/outside)
+"cF" = (/Tiles/Small/Wall_A/A10,/Tiles/Bullet_Only,/area/outside)
+"cG" = (/Tiles/Small/Wall_A/A11,/area/outside)
+"cH" = (/Tiles/Small/Wall_A/A12,/area/outside)
+"cI" = (/Tiles/Small/Wall_A/A7,/Tiles/Bullet_Only,/area/outside)
+"cJ" = (/Tiles/Small/Wall_A/A9,/area/outside)
+"cK" = (/Tiles/Small/Wall_A/A8,/Tiles/Trash/Cardboard_Box/Big_Box,/Tiles/Bullet_Only,/area/outside)
+"cL" = (/obj/enviroment/hazard/barrel,/Tiles/Small/Wall_A/A8,/area/outside)
+"cM" = (/Tiles/Small/Road/Road_Main,/Tiles/Small/Highway/Highway4,/Tiles/Bullet_Only,/area/outside)
+"cN" = (/Tiles/Trash/Paper,/Tiles/Small/Wall_A/A8,/area/outside)
+"cO" = (/Tiles/Small/Wall_A/A7,/Tiles/Small/Plank/Plank9,/area/outside)
+"cP" = (/Tiles/Small/Wall_A/A7,/Tiles/Small/Plank/Plank6,/area/outside)
+"cQ" = (/Tiles/Small/Wall_A/A4,/Tiles/Bullet_Only,/area/outside)
+"cR" = (/Tiles/Trash/Cardboard_Box,/Tiles/Small/Road/Road_Main,/area/outside)
+"cS" = (/items/other_items/revive,/Tiles/Small/Wall_A/A8,/area/outside)
+"cT" = (/items/weapons/grenade_launcher,/Tiles/Small/Wall_A/A8,/area/outside)
+"cU" = (/Tiles/Trash/Bottle/B2,/Tiles/Small/Wall_A/A8,/area/outside)
+"cV" = (/Tiles/Trash/Newspaper,/Tiles/Small/Wall_A/A8,/area/outside)
+"cW" = (/Tiles/Small/Wall_A/A8,/Tiles/Small/Building/B3,/area/outside)
+"cX" = (/Tiles/Small/Wall_A/A8,/Tiles/Small/Building/B4,/Tiles/Small/Building/Door,/area/outside)
+"cY" = (/Tiles/Small/Wall_A/A8,/Tiles/Small/Building/B4,/area/outside)
+"cZ" = (/Tiles/Small/Wall_A/A8,/Tiles/Small/Building/B5,/area/outside)
+"da" = (/Tiles/Small/Wall_A/A8,/Tiles/Medium/Trashcan,/area/outside)
+"db" = (/Tiles/Small/Wall_A/A8,/Tiles/Small/Wall_A/A13,/Tiles/Bullet_Only,/area/outside)
+"dc" = (/Tiles/Machines/Teleporter2,/Tiles/Small/Wall_A/A8,/area/outside)
+"dd" = (/Tiles/Small/Wall_A/A8,/Tiles/Billboard,/area/outside)
+"de" = (/Tiles/Small/Wall_A/A6,/area/outside)
+"df" = (/Tiles/Small/Grass,/Tiles/Medium/Chainlink_Fence,/Tiles/Medium/Chainlink_top,/Tiles/Medium/Chainlink_Fencew,/area/outside)
+"dg" = (/Tiles/Small/Grass,/Tiles/Medium/Chainlink_Fence,/Tiles/Medium/Chainlink_top,/area/outside)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafacadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafacacacacacagahahahahahahahahahahahahahahahahahahah
+ahahahaiahahahajahahahahahahahahahakahahahahalacadamamamamamamamamamamamamamamamamamamamamamamamafacadamamamamamamamamamamamamamamamamamamamamamamamafacacacacacagahahahahahahahahahahahahahahahahahahah
+ahahaiahahahahahahahahahahahanahahahahahahahalacadaoaeaeaeaeapaoaoaoaqaqaqaqaqaraqaqaqaqaqaoaoaoafacadaoaqaqaqaqaqapaoamaoaoaqaqaqaqaraqaqaqaqaqaqaoafacacacacacagahahahahahahahahahahahahahahahahahahah
+ahahahahanahahahahahahahahahahahahahahahahahalasataoauaeaeavawaoaoaoaqaqaqaqaqaqaqaqaqaqaqaoaoaoafacaxaoaqaqaqaqaqawaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaoafacacacacacagahahahahahahahahahahahahahahahayahahah
+ahahahahahahazazazazazazahaAahanahahahahahahaBaCaDaoaoaoawaEaoawaoaoaqaqaqaqaqaqaqaqaqaqaqaoaoaoafacadaoaqaqaqaqaqaoaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaoafacacacacacagahaFahahahahahahahahahahahahahahahahah
+ahahanahahahazazazazazazahaGahahahahahanahahalasadaoaoaoaoaEaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaoaoaoafacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoafaHacacacacagahahahahahahahahahahahahahahahahahahah
+ahahahahahahazazahahazazahahahahahahahahahahalacadaoaoaoaoaoapaqaqaqaqaqaqaqaqaraqaqaqaqaqaqaqaoafasadaoaqaqaqaqaqaraqaqaqaqaqaqaqaqaraqaqaqaqaqaqaoafacacacacacagahahahahahahahahahahahahahahahahahahah
+ahahahahahahazazaIahazazahahahahahahahahahahalasataoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoafasataoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacacacacacagahahahahahahahahahahahahahahahahahahah
+ahahahahahahazazazazazazahahahahahanahahahahaBaJaDaoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaKaCaLaoaqaqaqaqaqaoaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaoafacacacacacagahahahahahahahahahahahahahahahahahahah
+ahahanahahahazazazazazazahahahahahahahahahahaBaCaLaoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaKaCaDaoaqaqaqaqaqaoaoaoaoaoaoaoaEaoaoaqaqaqaqaqaqaoafacacacacacagahahahahahahahahahahahahahahahahahahah
+ahahahahaMahahahahahahahahahahahahahahahahahalasadaoaoaoaoaoapaqaqaqaqaqaqaqaqaraqaqaqaqaqaqaqaoaKaJaLaoaqaqaqaqaqapaoaoawaoaEawaoaoapaqaqaqaqaqaqaoafacacacacacagahahahahahahahahahaNahahahahahahahahah
+ahahahahahahahahahahahahahahahahahahahahahahalacadaoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaKaCaDaoaqaqaqaqaqaoaoaoaeaeaeaeawaoaoaqaqaqaqaqaqaoafacacacacacagahahahahahahahahahahahahahahahahahahah
+ahaOaPahahahahahahanahahahahahaQahahahahahaRalacadaoaoaoaoaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaoafasadaoaqaqaqaqaqaoawaEaSaeaeaeaoaoaoaqaqaqaqaqaqaoafacacacacacagahahaRahahahahahahahahahahahahahahahah
+ahaTaPahahahahahahahahahahahahahahahahahahahalacadaoaoaoaoaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaoafacadaoaqaqaqaqaqaoaoawaoaEawawaoaoaoaqaqaqaqaqaqaoafacacacacacagahaUahahahahahahahahahahahahahahahahah
+aVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaWacadaoaoaoaoaoapaoaoaoaoaoaoaoaqaraqaqaqaqaqaqaqaoafacadaoaqaqaqaqaqapaoaoaoaoaoawaoaoapaqaqaqaqaqaqaoafacacacacacagahahahahahahahahahahahahahahahahahahah
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaYacadaoaoaoamaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaoafacadaoaqaqaqaqaqaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoafacacacacacaZbababababababababababababababababababa
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaYacadbbaoaoaoaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaoafacadaoaoaoaoaoaoaoaoaoamaoaoaoaoaoaoaoaoaoaoaoaoaEafacacacacacbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXbdaXaYacadaoaoaoaoaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaoafacadaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoafacacacacacbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaYacadaoaqaqaqaqaraqaqaqaqaqaqaqaqaraqaqaqaqaqaqaqaoafacadaoaoaoaoaoaoapaoaoaoaoaoaoaoaoapaoaoaoaoaoaoaoafacacacacacbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+aXaXaXbeaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaYacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacbfbgbgbhbibibgbhbhbhbibgbgbhbibibibibgbhbhbibgbgbjacacacacacbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+aXbkaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXbkaXaXaXaYacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacblbmbmbmbnbnbmbmbmbmbnbmbmbmbnbnbnbnbmbmbmbnbmbmblacacacacacbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaYacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacacbobobpbqbrbpbobobpbqbpbobpbqbqbqbqbpbobpbqbpboacacacacacacbcaXbsaXaXaXaXaXaXaXaXaXaXaXaXaXbkaXaXaX
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaYacadaoaqaqaqaqaraqaqaqaqaqaqaqaqaraqaqaqaqaqaqaqaoafacacbtbtbubvbvbubtbtbubvbubtbubwbvbvbvbubtbubvbubtacacacacacacbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXbxaXaXaX
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaYacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacacacacasbybyasacacasbzasacasbybybybyasacasbAasacacacacacacacbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaYacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacacacacasbybyasacacasbyasacasbybybybyasacasbyasacacacacacacacbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaYacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacacacacasbybyasacacasbyasacasbybybAbyasacasbyasacacaHacacacacbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaYacadaoaqaqaqaqaraqaqaqaqaqaqaqaoapaoaoaoaoaoaoaoaoafacacacacasbAbyasacacasbyasacasbybybybyasacasbyasacacacacacacacbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaYacadaoaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoaoaobBaoaoafacasasasasbybyasasasasbyasasasbybybybyasasasbyasbCasacacacacacbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaYacadaoaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoaoaoaoaoaEafacbDbEbFbFbGbHbIbFbFbFbJbEbFbFbGbGbHbKbEbFbFbGbFbFbLacacacacacbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXbMbNaXaXaXaXaXaYacadaoaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoaoaoaoaoaEafacadaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoafacacacacacbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaYacadaoaqaqaqaqaraqaqaqaqaqaqaqaobOaoaoaoaoaoaoaoaoafacadaoaqaqaqaqaqaraqaqaqaqaqaqaqaqaraqaoaoaoawawaEafacacacacacbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+bPbPbPbQbRbPbPbPbPbPbPbSbPbPbPbPbPbPbPbPbPbPbTacadaoaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoaoaoaoaoaoafacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqbUaqaoaoaeaeaeaeafacacacacacbcaXaXaXaXbVaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+bWacbWacbWacbWacbXacbWacbWacbWacbWacbYacbWacacacadaoaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoaoaoaoaoaoafacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaobZaeaeaeafacacacacacbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+acacacacacacacacacacacacacacacaccaacacacacacacacadaoaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoaoaoaoaoaoafacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaEawaoaEawafacacacacaccbbPbPbPbPbPbPbRbPbPbPbPbPbPbPbPbPbPbPbP
+aHacacacacacacacacacacacacacacacacacacacacacacacadaoaoaoaoaoapaoaoaoaoaoaqaqaqaraqaqaqaoaoaoaoaoafacadaoaqaqaqaqaqaraqaqaqaqaqaqaqaqaraqaoawaoaoaoaEafacacacacacccaccdaccdacccacbWacbWacbWacbWacbWacceac
+acacacacacacacacacacacacacacacacacacacacacacacacadaoaoaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaoaoaoaoaoafacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoawaoafacacacacacacacaccfacacacacaccgacacacacacacacacacac
+acacacacacacacacacacaHacacacacacacacacaHacacacacadaoaoaEaoaEawawaoaoaoaoaqaqaqaqaqaqaqaoaoaoaoaoafacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoaoafacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacadaoaEaeaeaeaeaoaoaoaoaoaqaqaqaqaqaqaqaoaoaoaoaoafacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoaoafaHacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacadaoawbZaeaechaoawaoaoaoaqaqaqaraqaqaqaoaoaoaoaoafacadaoaqaqaqaqaqaraqaqaqaqaqaqaqaqaraqaqaqaqaqaqaoafacacacacacacacacacacacacacacacacacaHacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacadaoaoaoaEawawaoaoaoaoaoaqaqaqaqaqaqaqaoaoaoaoaoafasataoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacadaoaoaoawaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaKaCaLaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaoafacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacadaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaKaCaDaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaoafacacacaHacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacaHacacacacacacacacadaoaoaoaoaoapaoaoaoaoaoaoaoaoapaoaoaoaoaoaoaoaoaKaJaDaoaoaoaoaoaoapaoaoaoaoaoaoaoaoapaqaqaqaqaqaqaoafacacacacacacacacacacacacacacacacacacacaHacacacacac
+acacacaHacacacacacacacacacacacacacacacacacacacacadaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoafasadaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaoafacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacaHacacacacacacacacacadaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaEafacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacacacacacacacacacacacacacacacacacacacacacacacacac
+aHacacacacacacacacacacacacacacacaccfacacacacacacadaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoafacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacacacaccicjacacacacacacaHacacacacacacacacacacacac
+ckckckckckckckckckckckckckclckckckckckckckckckckadaoaoaqaqaqaraqaqaqaqaqaqaqaqaraqaqaqaqaoaoaoaoafckadaoaqaqaqaqaqaraqaqaqaqaqaqaqaqaraqaoaqaqaqaqaoafckckckckckclckckckckckckckckckckckckckckckckckckck
+cmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmadaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoafcmadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaqaqaqaqaEafcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcmcm
+cncncncncncncncncncncncncocncncncncncncncncncncnadaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoafcnadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaqaqaqaqaEafcncncncncncncncncncncncncncncncncncncncncncncncncn
+cncncncncncncncncncncncncncncncncncncncncncncncnadaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoafcnadaoaqaqaqaqaqaqaqaqaoaoaoaoaqaqaoaoaoaqaqaqaqaoafcncncncncncncncncncncncncncncncncncncncncncncncncn
+cncncncncncncncncncncncncncncncncncncncncncncncnadaoaoaqaqaqaraqaqaqaqaqaqaqaqaraqaqaqaqaoaoaoaoafcnadaoaqaqaqaqaqaraqaqaoawawaoaqaqapaoaoaqaqaqaqaoafcncncncncncncncncncncncncncncncncncncncncncncncncn
+cncncncncncncncncncncncncncncncncncncncncncncncnadaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoafcnadaoaqaqaqaqaqaqaqaqaoaoaoaoaqaqaoaoaoaqaqaqaqaoafcncncncncncncncncncncncncncncncncncncncncncncncncn
+cpcpcpcpcpcpcpcpcpcpcpcpcpcpcpcpcpcpcpcpcpcpcpcpadaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoafcpadaoaqaqaqaqaqaqaqaqaoaoaoaoaqaqaoaoaoaqaqaqaqaoafcpcpcpcpcpcpcpcpcpcpcpcpcpcpcpcpcpcpcpcpcpcpcpcpcp
+cqcrcrcrcrcrcrcrcrcrcrcrcrcrcrcrcrcrcrcrcrcscrcradaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoafcradaoaqaqaqaqaqaqaqaqaoaoaoaoaqaqaoawaoaqaqaqaqaoafcrcrcrcrcrcrcrcrcrcrctcrcrcrcrcrcrcrcrcrcrcrcrcrcr
+acacacacacacacacacacciacacaHacacacacacacacacacacadaoaoaoaoaoapaoaoaoaoaoaoaoaoapaoaoaoaoaoaoaoaoafacadaoaqaqaqaqaqaraqaqaoaoaoaoaqaqapaoaoaqaqaqaqaoafacacacacacacacacacacacaccfacacacacacacacacacacacac
+acacacacacacacacacacacaccuacacacacacacacacacacaccvbhbhbhbibhbhbhbhbgbicwcwbhbhbgbhcwcwbhbgbgbgbhcxacadaoaqaqaqaqaqaqaqaqaoaoaoaoaqaqaoaoaoaqaqaqaqaoafacacacacacacacaccyacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacblbmbmbmbnbmbmbmbmbmbnbnbnbmbmbmbmbnbnbmbmbmbmbmblacadaoaqaqaqaqaqaqaqaqaoaoaoaoaqaqaoaoaoaqaqaqaqaoafacacacacacacaHacacacacacacacacacacaHacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacbobobpczbpbobobobpbqbqczbpbobobpbqbqbpboboboboacacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacaHacacacacacacacacacbtbtbubvbubtbtbtbubvbvbvbubtbtbubwbvbubtbtbtbtacacadaoaqaqaqaqaqaraqaqaqaqaqaqaqaqaraqaqaqaqaqaqaoafacacacacacacacacacacacacacacacacacacaHacacacacacac
+acacaHacacacacacacacacacacacacacacacacacacacacacacacacasbyasacacacasbybybyasacacasbycAasacacacacacacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacasbyasacacacasbycBbyasacacasbybyasacacacacacacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacacacacasbyasacacacasbybybyasacacasbybyasacacacacacacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacasasasasbyasasasasasbybybyasasasasbybyasasasasasasacadaoaqaqaqaqaqaraqaqaqaqaqaqaqaqaraqaqaqaqaqaqaoafacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacbDbFbFbEbGbFbFbEbEbFbJbGbGbFbFbFbFbHbJbFbFbFbFbFbLacadaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacadaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaEaoafacadaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacacacaHacacacacaHacacacacacacacacacacaHacacacacac
+acacacacacacacacacacaHacacacacacacacacacacacacacadaoaoaoaoaoapaoaoaoaoaoaoaoaoapaoaoaoaoaoaoaoaoafacadaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacadaoaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaoawaoaoaoafacadaoaoaoaoaoaoapaoaoaqaqaqaqaqaqaraqaqaqaqaqaqaoafacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacaccCacacacacacacacacacacacacacacacacacacacadaEaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoafacadaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacacacacacacacacacacacacacacacacacacacacacacacacac
+acacaHacacacacacacacacacacacacacacacacacacacacacadcDaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoafacadaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacaHacacacacacacadaoaoaoaoaoaraqaqaqaqaqaqaqaqaraqaqaqaoaoaoaoaoafacadaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacacacacacacacacacacacaccEacacacacacacacacacacacac
+aHacacacacacacacacacacacacacacacacacacacacacacacadawaoaoaEaoaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoafacadaEaoaoaoaoaoapaoaoaqaqaqaqaqaqaraqaqaqaqaqaqaoafacacacaHacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacadaeaeaeaeaoaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoafacadaoawaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacacacacacacacacacacacacacacacaHacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacadbZaeaeaeaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoafacadawaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaoafacacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacacacacacacacacacacacacacacacacacadaEaoawaoawapaoaqaqaqaqaqaqaqaraqaqaqaqaqaqaoaoafacadaoaoaoaEaEaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaoafaHacacacacacacacacacacacacacacacacacacacacacacacac
+acacacacacacacacaHacacacacacacacacacacacacacacacadaEawaoaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoafacadaeaeaeaeaoaoapaoaoaqaqaqaqaqaqaraqaqaqaqaqaqaoafcFaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab
+cGcGcGcGcGcGcGcGcGcGcGcGcGcGcGcHacacacacacacacacadaoaoaoawaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoafacadauaeaeaeawaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaoafcIahahaPaPahahahahahahahahahahahahahahahahahahahcJ
+ahahahahajahahahahahajahahahahcJacacacacacacacacadaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoafacadaEaoawawaEaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaoafcIahahcKaPahahahahahahahahahahahahahahahahahahahcJ
+ahahahajahahahahaFahahahahahahcJacacaHacacacacacadaoaoaoaoaoapaoaqaqaqaqaqaqaqaraqaqaqaqaqaqaoaoafacadaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaoafcIahahahahahahahahahahahahahahahahahahahcLahahahcJ
+ahahahahahahahahahahahahahahahcJacacacacacacacacadaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoafacadaoaoaoaoaoaoapaoaoaqaqaqaqaqaqaraqaqaqaqaqaqaoafcIahahahahahahahahahaPaPahahahahahahahahcLcLahahcJ
+ahahahahahahahahahahahahahahahcJacacacacacacacacadaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqbUaqaqaqaqaqaoaoafacadaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaocMcIcNahahahahahahahahaTaPahahcFaaaaaaabahahahahahcJ
+ahahahahahahahahahahahahahahahcJacacacacacacacacadaoaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoaoaoaoaoaoafacadaoaoaoaoamaoaoaoaoaoaqaqaqaqaqaqaqaqaoaoaoaoaoaKcOahahahahahahahahahahahahahcIahahahalahahcLahahcJ
+ahahahahahahahahahahahahahahahcJaHacacacacacacacadaoaqaqaqaqaraqaqaqaqaqaqaqaoapaoaoaoaoaoaoaoaoafacadaoaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaoaoaoaoaoaKcPahahahahahahahahahahahahahcQaVaVaVaWahcLahahahcJ
+ahahahahahahahahahahahahahahahcJacacacacacacacacadaoaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoaoaoaoaocRcMasataoaoaoaoaoaoapaoaoaoaqaqaqaqaqaraqaqaoaoaoaoaoafcIahahahahcSahahahahahahahahbcaXaXaXaYahahcTahcLcJ
+ahahahahahahahahahcUahahahahahcJacacacacacacacacadaoaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoaoaoaoaoaoaKaJaDaoaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaoaoaoaoaEafcIahahahahahahahahahahahahahbcaXaXbxaYahahahahcLcJ
+ahahahahahahahahahahahajahcVahcJacacacacacacacacadaoaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoaoaoaoaoaoaKaCaDaoaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaoaoaoaoaoafcIahahahahahahahahahahahahahcWcXcYcYcZaiahahahahcJ
+ahahahahahahahahahahahahahahahcJacacacacacacacacadaoaqaqaqaqaraqaqaqaqaqaqaqaoapaoaoaoaoaoaoaoaoaKaCaLaoaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaoaoaobbaoafcIahahahahahahahahcLahahahahahahahdaaiahahahahahcJ
+ahahahahahahahahahahahahahahahcJacacacacacacacacadaoaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoaoaoaoaoaoafasadaoaoaoaoaoaoapaoaoaoaqaqaqaqaqaraqaqaoaoaoaoaoafcIahahahahahahahahahcLahahahahahahahahahahahahahcJ
+ahahahahahahahahahahahahahahahcJacacacacacacacacadaoaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaEaoaoaoaoaoaoafacadaoaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaoaoamaoaoafcIahahahahahahahahahahahahahahahahahahahahahahahcJ
+ahahahahahahahahahahahahahahahcJacacacacacacacacadaoaqaqaqaqaqaqaqaqaqaqaqaqaoaoaEaeaeaeaeaEaoaoafacadaoaoaoaoaoaoaoaoaoaoaqaqaqaqaqaqaqaqaoaoaoaoaoafcQdbahahahahahahahaNahahahahahcLahahahahahahahahcJ
+ahahahahahahajahahahahahahahahcJacacacacacacacacadaoaqaqaqaqaraqaqaqaqaqaqaqaoapawaSaeaeaeawaoaoafacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoafbccIahahahdcahahahahahahahahcLcLahahahcLahahahahcJ
+ahayahahahahahahahddahahahahahcJacacacacacacacacadaoaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoawaoaoawawaoaoafacadaoaqaqaqaqaqaraqaqaqaqaqaqaqaqaraqaqaoaoaoaoaoafbccIahahahahahahahahahahahahahahcLahahahahahahahcJ
+bababababababababababababababadeacacaHacacacacacadaoaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoawaoaEaoaoafacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoafbccIahahahahahahahahahahahahahahahahahahahahahahcJ
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaYacacacacacacacacadaoaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoaoaoaEaoaoafacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoafbccQaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaVaW
+aXaXaXaXaXaXaXaXaXaXaXaXbeaXaXaYacacacacacacacacadaoaoaoaoaqaraqaqaqaqaqaqaqaqaraqaqaqaqaoaoaoaoafacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaocDaoaoafbcbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaYacacacacacacacacadaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoafacadaoaqaqaqaqaqaraqaqaqaqaqaqaqaqaraqaqaoaoaoaoaoafbcbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaYacacacaHacacacacadaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoafacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoafbcbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+aXaXaXaXaXaXaXaXbsaXaXaXaXaXaXaYacacacacacacacacadaoaoaoaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoafacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoafbcbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaYacacacacacacacacadaEaoaoaoaqaraqaqaqaqaqaqaqaqaraqaqaqaqaoaoaoaoafacadaoaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaqaoaoaoaoaoafbcbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaYdfacdgacdgacdgacadamamamamamamamamamamamamamamamamamamamamamamamafacadamamamamamamapamamamamamamamamapamamamamamamamafbcbcaXaXbkaXaXaXaXaXaXaXaXaXaXaXaXaXbsbxaXaXaXaXaX
+aXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaYacacacacacacacacadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafacadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafbcbcaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaXaX
+"}

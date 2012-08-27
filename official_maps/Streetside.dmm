@@ -1,0 +1,171 @@
+"aa" = (/Tiles/Small/Wall_A/A8,/area/outside)
+"ab" = (/Tiles/Small/Wall_A/A8,/Tiles/Small/Wall_A/A10,/area/outside)
+"ac" = (/Tiles/Small/Wall_A/A11,/area/outside)
+"ad" = (/Tiles/Small/Wall_A/A8,/Tiles/Small/Wall_A/A12,/area/outside)
+"ae" = (/Tiles/Small/Wall_A/A7,/area/outside)
+"af" = (/Tiles/Small/Wall_A/A9,/area/outside)
+"ag" = (/Tiles/Small/Wall_A/A4,/area/outside)
+"ah" = (/Tiles/Small/Wall_A/A5,/area/outside)
+"ai" = (/Tiles/Small/Wall_A/A6,/area/outside)
+"aj" = (/Tiles/Small/Building/B6,/area/outside)
+"ak" = (/Tiles/Small/Building/B2,/area/outside)
+"al" = (/Tiles/Small/Building/B7,/area/outside)
+"am" = (/Tiles/Small/Wall_A/A8,/Tiles/Small/Wall_A/A14,/area/outside)
+"an" = (/Tiles/Small/Wall_A/A8,/Tiles/Small/Wall_A/A13,/area/outside)
+"ao" = (/Tiles/Small/Wall_A/A8,/Tiles/Small/Building/B3,/area/outside)
+"ap" = (/Tiles/Small/Wall_A/A8,/Tiles/Small/Building/B4,/area/outside)
+"aq" = (/Tiles/Small/Wall_A/A8,/Tiles/Small/Building/B4,/Tiles/Small/Building/Door,/area/outside)
+"ar" = (/Tiles/Small/Wall_A/A8,/Tiles/Small/Building/B5,/area/outside)
+"as" = (/Tiles/Small/Building/B2,/Tiles/Medium/Posters/Biohazard1,/area/outside)
+"at" = (/Tiles/Small/Building/B2,/Tiles/Medium/Posters/Burned,/area/outside)
+"au" = (/Tiles/Small/Building/B2,/Tiles/Medium/Posters/Biohazard2,/area/outside)
+"av" = (/Tiles/Small/Wall_A/A8,/Tiles/Helipad,/area/outside)
+"aw" = (/Tiles/Small/Wall_A/A8,/Tiles/Large/AC_Unit,/area/outside)
+"ax" = (/Tiles/Small/Wall_A/A9,/Tiles/Density,/area/outside)
+"ay" = (/Tiles/Small/Building,/area/outside)
+"az" = (/Tiles/Small/Wall_A/A7,/Tiles/Density,/area/outside)
+"aA" = (/Tiles/Small/Road/Road_Main,/Tiles/Medium/Trash_Bag,/area/outside)
+"aB" = (/Tiles/Small/Road/Road_Main,/Tiles/Theatre/Shadow,/area/outside)
+"aC" = (/Tiles/Small/Road/Road_Main,/Tiles/Trash/Cardboard_Box,/Tiles/Theatre/Shadow,/area/outside)
+"aD" = (/Tiles/Small/Road/Road_Main,/Tiles/Large/Lamp1,/Tiles/Theatre/Shadow,/area/outside)
+"aE" = (/Tiles/Small/Road/Road_Main,/Tiles/Small/Building/B3,/area/outside)
+"aF" = (/Tiles/Small/Road/Road_Main,/Tiles/Small/Building/B3,/Tiles/Small/Building/B4,/area/outside)
+"aG" = (/Tiles/Small/Road/Road_Main,/Tiles/Small/Building/B4,/Tiles/Small/Building/Door,/area/outside)
+"aH" = (/Tiles/Small/Road/Road_Main,/Tiles/Small/Building/B4,/area/outside)
+"aI" = (/Tiles/Small/Road/Road_Main,/Tiles/Small/Building/B5,/Tiles/Small/Building/B4,/area/outside)
+"aJ" = (/Tiles/Small/Road/Road_Main,/Tiles/Small/Building/B5,/area/outside)
+"aK" = (/Tiles/Small/Road/Road_Main,/area/outside)
+"aL" = (/Tiles/Barricades/Crate,/Tiles/Small/Road/Road_Main,/area/outside)
+"aM" = (/Effects/spawn_stuff/erise_zone,/Tiles/Small/Road/Road_Main,/area/outside)
+"aN" = (/Tiles/Small/Road/Road_Main,/Tiles/Restore_Ammo,/area/outside)
+"aO" = (/Tiles/Trash/Cardboard_Box/Big_Box,/Tiles/Small/Road/Road_Main,/area/outside)
+"aP" = (/Tiles/Small/Wall_A/A8,/Tiles/Billboard,/area/outside)
+"aQ" = (/Tiles/Small/Wall_A/A6,/Tiles/Density,/area/outside)
+"aR" = (/items/weapons/magnum,/Tiles/Small/Road/Road_Main,/area/outside)
+"aS" = (/Tiles/Barricades/Crate2,/Tiles/Small/Road/Road_Main,/area/outside)
+"aT" = (/Effects/spawn_stuff/player_spawn_zone,/Tiles/Small/Road/Road_Main,/area/outside)
+"aU" = (/Tiles/Trash/Paper/P2,/Tiles/Small/Road/Road_Main,/area/outside)
+"aV" = (/Tiles/Small/Wall_A/A4,/Tiles/Density,/area/outside)
+"aW" = (/Tiles/Small/Road/Road_Main,/Effects/spawn_stuff/erise_zone,/Tiles/Medium/Sewer,/area/outside)
+"aX" = (/items/weapons/rifle,/Tiles/Small/Road/Road_Main,/area/outside)
+"aY" = (/Tiles/Medium/AmmoCrate,/Tiles/Small/Road/Road_Main,/area/outside)
+"aZ" = (/Tiles/Small/Building/B2,/Tiles/Small/Building/Window1,/area/outside)
+"ba" = (/Tiles/Small/Road/Road_Main,/Tiles/Theatre/Mold,/area/outside)
+"bb" = (/Tiles/Small/Road/Road_Main,/Effects/spawn_stuff/erise_zone,/Tiles/Theatre/Mold,/area/outside)
+"bc" = (/Tiles/Small/Building/B2,/Tiles/Medium/Posters/Mickemoose,/area/outside)
+"bd" = (/Tiles/Small/Building/B2,/Tiles/Small/Building/Window1/W2,/area/outside)
+"be" = (/Tiles/Small/Building/B2,/Tiles/Medium/Posters/Rage,/area/outside)
+"bf" = (/obj/enviroment/hazard/barrel,/Tiles/Small/Road/Road_Main,/area/outside)
+"bg" = (/items/weapons/crossbow,/Tiles/Small/Road/Road_Main,/area/outside)
+"bh" = (/Tiles/Small/Building/B2,/Tiles/Medium/Posters/Ripped,/area/outside)
+"bi" = (/Tiles/Small/Road/Road_Main,/Tiles/Medium/Chainlink_top,/Tiles/Medium/Chainlink_Fence,/Tiles/Medium/Chainlink_Fencee,/Tiles/Bullet_Only,/area/outside)
+"bj" = (/Tiles/Small/Road/Road_Main,/Tiles/Bullet_Only,/area/outside)
+"bk" = (/Tiles/Small/Road/Road_Main,/Tiles/Medium/Chainlink_Fence,/Tiles/Medium/Chainlink_top,/Tiles/Medium/Chainlink_Fencew,/Tiles/Bullet_Only,/area/outside)
+"bl" = (/Tiles/Small/Road/Road_Main,/Tiles/Medium/Chainlink_Fence,/Tiles/Medium/Chainlink_top,/Tiles/Bullet_Only,/area/outside)
+"bm" = (/Tiles/Small/Road/Road_Main,/Tiles/Medium/Chainlink_Fence,/Tiles/Medium/Chainlink_top,/Tiles/Medium/Chainlink_Fencee,/Tiles/Bullet_Only,/area/outside)
+"bn" = (/Tiles/Density,/Tiles/Theatre/Shadow,/area/outside)
+"bo" = (/Effects/spawn_stuff/enemy_spawn_zone,/Tiles/Theatre/Shadow,/area/outside)
+"bp" = (/Tiles/Theatre/Shadow,/area/outside)
+"bq" = (/Tiles/Large/Lamp1,/Tiles/Theatre/Shadow,/area/outside)
+"br" = (/Tiles/Medium/News_Stand,/area/outside)
+"bs" = (/Tiles/Medium/Trash_Bag{layer = 3},/area/outside)
+"bt" = (/items/secondary_items/grenade,/Tiles/Theatre/Shadow,/area/outside)
+"bu" = (/items/secondary_items/mine,/items/secondary_items/mine,/items/secondary_items/mine,/items/secondary_items/mine,/Tiles/Small/Road/Road_Main,/area/outside)
+"bv" = (/Tiles/Small/Road/Road_Main,/obj/enviroment/hazard/barrel,/Tiles/Theatre/Shadow,/area/outside)
+"bw" = (/Tiles/Small/Road/Road_Main,/Effects/spawn_stuff/enemy_spawn_zone,/Tiles/Theatre/Shadow,/area/outside)
+"bx" = (/Tiles/Small/Road/Road_Main,/Tiles/Medium/Sidewalk/Sidewalk1,/Tiles/Density,/area/outside)
+"by" = (/Effects/spawn_stuff/enemy_spawn_zone,/Tiles/Small/Road/Road_Main,/area/outside)
+"bz" = (/Tiles/Small/Road/Road_Main,/Tiles/Medium/Sidewalk/Sidewalk1,/area/outside)
+"bA" = (/Tiles/Small/Road/Road_Main,/obj/enviroment/hazard/barrel,/Tiles/Medium/Sidewalk/Sidewalk1,/area/outside)
+"bB" = (/Tiles/Trash/Newspaper,/Tiles/Small/Road/Road_Main,/area/outside)
+"bC" = (/Tiles/Small/Road/Road_Main,/Tiles/Trash/Cardboard_Box/Big_Box,/Tiles/Medium/Sidewalk/Sidewalk1,/area/outside)
+"bD" = (/Tiles/Small/Road/Road_Main,/Tiles/Medium/Crosswalk1,/area/outside)
+"bE" = (/Tiles/Small/Road/Road_Main,/Effects/spawn_stuff/erise_zone,/Tiles/Medium/Crosswalk1,/area/outside)
+"bF" = (/Tiles/Small/Road/Road_Main,/Effects/spawn_stuff/enemy_spawn_zone,/Tiles/Medium/Sidewalk/Sidewalk1,/area/outside)
+"bG" = (/Tiles/Small/Road/Road_Main,/Tiles/Density,/area/outside)
+"bH" = (/Tiles/Small/Road/Road_Main,/Effects/spawn_stuff/erise_zone,/Tiles/Medium/Drain,/area/outside)
+"bI" = (/Tiles/Barricades/Crate,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Road/Road_Main,/area/outside)
+"bJ" = (/Tiles/Trash/Bottle,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Road/Road_Main,/area/outside)
+"bK" = (/obj/enviroment/hazard/barrel,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Road/Road_Main,/area/outside)
+"bL" = (/Effects/spawn_stuff/erise_zone,/Tiles/Barricades/Crate2,/Tiles/Small/Road/Road_Main,/area/outside)
+"bM" = (/Effects/spawn_stuff/erise_zone,/Tiles/Machines/Teleporter1,/Tiles/Small/Road/Road_Main,/area/outside)
+"bN" = (/Tiles/Trash/Bottle/B2,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Road/Road_Main,/area/outside)
+"bO" = (/Tiles/Small/Road/Road_Main,/Effects/spawn_stuff/erise_zone,/Tiles/Theatre/Mold/M2,/area/outside)
+"bP" = (/Tiles/Small/Road/Road_Main,/Effects/spawn_stuff/erise_zone,/Tiles/Medium/RoadlineA,/area/outside)
+"bQ" = (/items/other_items/revive,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Road/Road_Main,/area/outside)
+"bR" = (/Tiles/Barricades/Cone,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Road/Road_Main,/area/outside)
+"bS" = (/Tiles/Trash/Paper/P2,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Road/Road_Main,/area/outside)
+"bT" = (/items/secondary_items/molotov,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Road/Road_Main,/area/outside)
+"bU" = (/items/secondary_items/molotov,/items/secondary_items/molotov,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Road/Road_Main,/area/outside)
+"bV" = (/Effects/spawn_stuff/erise_zone,/Tiles/Trash/Newspaper,/Tiles/Small/Road/Road_Main,/area/outside)
+"bW" = (/Tiles/Small/Grass,/Tiles/Medium/Sidewalk/Sidewalk2,/Tiles/Density,/area/outside)
+"bX" = (/turf,/area/outside)
+"bY" = (/Tiles/Small/Grass,/Effects/spawn_stuff/erise_zone,/Tiles/Medium/Sidewalk/Sidewalk2,/area/outside)
+"bZ" = (/Tiles/Small/Grass,/area/outside)
+"ca" = (/Tiles/Barricades/Crate,/Tiles/Small/Grass,/area/outside)
+"cb" = (/Tiles/Small/Grass,/Tiles/Barricades/Crate,/Tiles/Medium/Sidewalk/Sidewalk2,/area/outside)
+"cc" = (/Tiles/Small/Grass,/obj/enviroment/hazard/barrel,/Tiles/Medium/Sidewalk/Sidewalk2,/area/outside)
+"cd" = (/Tiles/Small/Grass,/Effects/spawn_stuff/enemy_spawn_zone,/Tiles/Medium/Sidewalk/Sidewalk2,/area/outside)
+"ce" = (/Tiles/Small/Grass,/Tiles/Density,/area/outside)
+"cf" = (/Effects/spawn_stuff/erise_zone,/Tiles/Barricades/Crate2,/Tiles/Small/Grass,/area/outside)
+"cg" = (/obj/enviroment/hazard/barrel,/Effects/spawn_stuff/erise_zone,/Tiles/Small/Grass,/area/outside)
+"ch" = (/Effects/spawn_stuff/erise_zone,/items/weapons/burst_rifle,/Tiles/Small/Grass,/area/outside)
+"ci" = (/Effects/spawn_stuff/erise_zone,/Tiles/Machines/Teleporter2,/Tiles/Small/Grass,/area/outside)
+"cj" = (/items/weapons/shotgun,/Tiles/Small/Grass,/area/outside)
+"ck" = (/Tiles/Small/Ditch,/area/outside)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaabacacacacadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaeaaaaaaaaafaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaeaaaaaaaaafaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaagahahahahaiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaajakakakakalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaamahahahahahahahahahahahanaaaaaaaaamahahahahahahahahahahahahahanaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaajakakakakalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaafakakakakakakakakakakakagahahahahaiakakakakakakakakakakakakakaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaajakakakakalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaafakakakakakakakakakakakajakakakakalakakakakakakakakakakakakakaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaajakakakakalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaafakakakakakakakakakakakajakakakakalakakakakakakakakakakakakakaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaoapaqapaparaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaafakakakakakakakakakakakajakakakakalasakakakakakakakakakakakakaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaafakakakakakakakakatakakajakakakakalakakakakakakakakakakakakakaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaafakakakakakakakauakakakajakakakakalakakakakakakakakakakakakakaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaafakakakakakakakakakakakajakakakakalakakakakakakakakakakakakakaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaavaaaaaaaaaaaaaaaaaaaaaaaaawaaaaawaaaaaxayayayayayayayayayayayajakakakakalayayayayayayayayayayayayayazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaxaAaAaBaCaDaBaBaBaBaBaBaEaFaGaHaIaJaBaBaBaBaBaBaBaDaBaBaAaAaBazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawaaaaawaaaaaxaAaKaLaKaKaKaKaKaKaKaMaMaMaMaKaKaKaNaNaNaNaNaNaKaKaOaKaKaAaKazaPaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaQaLaLaKaRaKaSaKaKaTaKaMaMaMaMaKaUaKaNaNaNaNaNaNaKaKaKaLaKaKaKaVahahahahahahahahahahahahahahahahahahah
+akakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakalaKaKaKaKaLaKaKaKaKaKaMaMaMaMaKaKaKaNaNaKaKaNaNaKaKaKaLaLaKaKakakakakakakakakakakakakakakakakakakakak
+akakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakalaKaMaMaKaKaMaMaMaWaMaMaMaKaKaKaXaKaNaNaYaKaNaNaKaKaKaKaLaKaKakakakakakakakakakakakakakakakakakakakak
+akakaZakakakakakakakakakaZakakakakakakakakakaZakakakakakakakakakaZakakakakakakakakalaKaMaMaKaKaMaMaMaMaMaMaMaTaKaKaKaKaNaNaNaNaNaNaKaTaKaKaKaKaKakakakakakakakakakakakakakakakakakakakak
+akakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakalaKaMaMaTaKaMaMaMaMaMaMaMaKbaaKaKaKaNaNaNaNaNaNaMaMaMaMaMaKaKakakakakakakakakakakakakakakakakakakakak
+akakakakakakakakauakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakalaKaMbbaKaKaKaMaMaMaMaMaMaMaMaKaKaKaKaKaKaKaKaKaMaMaMaMaMaSaKakakakakakakakakakakakakakakakakakakakak
+akakaZakakakakbcakakakakaZakakakakakakakakakbdakakakakakakakakakaZakakakakakasakakalaKaMaMaKaLaKaMaMaMaMaMaMaMaMaKaKaKaKaKaKaKaTaKaMaMaMaMaMaKaKakakbeakakakakakakakakakakakakakakakakak
+akakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakakalaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKaKbfbfaKaKbgaKaKaMaMbbaMaMaKaKakakakakakakakakakakakakakakakbhakakakak
+ayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayaybibjaLaLaKaKaTaKaKaKbkbjblbjblbjblbjbmbjaKaKaKaMaMaMaMaMaKaKayayayayayayayayayayayayayayayayayayayay
+bnbobpbpbpbpbpbpbpbpbpbpbpbpbpbpbqbpbpbrbpbpbpbpbsbsbpbpbpbpbpbpbpbqbpbpbpbtbpbtaBaBaKaKaKaKaKaKaKaKaKaKbfbfaKaKaKaKbuaKbfaKaKaKaKaMaMaMaMaMaKaKaBaBbvbvbvaBaBaDaBaBaBaBaBaBaBaBaBaBbwbn
+bxbybzbfbzaKbAaKbzaKbzaKbzbBbzaKbzaKbzaKbzaKbzaKbzaKbzaKbzaKbzaKbzaKbCaKbzaKbzaKbzaKbDaKbDaKbDaKbDaKbDaKbzaKbzaKbzaKbzaKbzaKbDaKbDaMbEaMbEaMbDaKbzaKbzaKbAaKbzaKbzaKbzaKbzaKbzaKbzaKbFbG
+bGbybHaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbIbIbIaMbHaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbHaMbJaMaMaMaMaMaMaMaTaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbHaMaMaMaMaMbybG
+bGbyaMaMaMaMaMaMaMbKaMaMaMaMaMaMbLaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbKaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbybG
+bGbyaMaMaMbKaMaMaMaMaMbMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbbaMaMaMaMaMbLaMaMaMaMaMaMaMaMbKaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbybG
+bGbyaMaMaMaMaMaMaMbKaMaMaMaMaMaMbNaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbOaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbybG
+bGbyaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbOaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbybG
+bGbyaMbPaMaMaMaMaMbPaMaMaMaMaMbPaMaMaMaMaMbPaMaMaMaMaMbPaMaMaMaMaMbPaMaMaMaMbPaMaMaMaMbPaMaMaMaMbPaMaMaMaMbPaMaMaMaMbPaMaMaMaMbPaMaMaMaMbPaMaMaMaMbPaMaMaMaMbPaMaMaMaMbPaMaMaMaMbPaMbybG
+bGbyaMaMaMaMaWaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbQaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbybG
+bGbyaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbNaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbbaMaMaMaMaMaMaMbybG
+bGbyaMaMaMaMbOaMaMaMaMaMaMaMaMaMaMaMbRaMaMaMaMbRaMaMaMaMaMaMaMaMaMaMaMbSbbaMaMaMaMaMaMaMaMaMaMaMaMaMbKaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbTbTaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbybG
+bGbyaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbKbKaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbUbTaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbybG
+bGbyaMaMaMaMaMaMaMaMaMaMaMaMaMbRaMaMaMaMaMaMaMaMaMaMbRaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbKaMaMaMaMaMaMaMaMaMaMaMbVaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbybG
+bGbyaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbIbIaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMaMbKbKaMbKbKaMbybG
+bWbXbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYcacbcacbbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZbYbZccbZccbZcdce
+cebZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZce
+cebZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZcfbZbZcfbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZce
+cebZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZcgbZbZbZbZbZbZbZbZbZcgbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZce
+cebZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZce
+cebZbZbZbZchbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZcgbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZcibZbZbZbZbZbZce
+cebZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZce
+cebZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZbZcjbZbZbZce
+ckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckckck
+"}
